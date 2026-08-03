@@ -1,0 +1,14 @@
+[
+  "rent_increase_offered_pct",
+  "maintenance_avg_response_days",
+  "maintenance_requests_count",
+  "tenure_months",
+  "concession_months",
+  "occupancy_pct",
+  "same_property_noi_growth_pct",
+  "property_class_B",
+  "property_class_C",
+  "unit_type_2BR",
+  "unit_type_3BR",
+  "unit_type_Studio"
+]

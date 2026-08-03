@@ -1,0 +1,7 @@
+{
+  "roc_auc": 0.6523,
+  "pr_auc": 0.8068,
+  "f1": 0.7529,
+  "accuracy": 0.6581,
+  "base_rate_baseline_accuracy": 0.6901
+}

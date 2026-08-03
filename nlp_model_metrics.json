@@ -1,0 +1,6 @@
+{
+  "theme_classification_accuracy": 1.0,
+  "sentiment_classification_accuracy": 1.0,
+  "n_test": 313,
+  "limitation": "Feedback text is template-generated, not real free-text resident comments. This makes classification easier than a real-world NLP task -- these accuracy figures should NOT be read as representative of performance on genuine, unstructured resident feedback."
+}
