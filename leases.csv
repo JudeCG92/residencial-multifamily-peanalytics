@@ -1,0 +1,1250 @@
+lease_id,property_id,market,property_class,unit_type,unit_sqft,tenure_months,lease_start_date,current_rent,market_rent,rent_increase_offered_pct,concession_months,maintenance_requests_count,maintenance_avg_response_days,feedback_theme,feedback_sentiment,feedback_text,renewed
+L00001,PR001,Tampa,B,1BR,729.0,11.7,2025-01-12,1071.0,1131.0,5.67,2,1,0.78,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00002,PR001,Tampa,B,2BR,1068.0,17.6,2024-07-14,1590.0,1648.0,3.68,0,0,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00003,PR001,Tampa,B,2BR,1035.0,12.8,2024-12-09,1428.0,1389.0,-2.71,0,0,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00004,PR001,Tampa,B,2BR,1130.0,24.5,2023-12-17,1575.0,1773.0,12.51,1,2,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00005,PR001,Tampa,B,1BR,752.0,44.7,2022-04-12,1104.0,1153.0,4.44,1,1,0.95,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00006,PR001,Tampa,B,1BR,786.0,5.9,2025-07-07,1155.0,1156.0,0.03,0,3,1.24,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00007,PR001,Tampa,B,2BR,1146.0,3.6,2025-09-14,1601.0,1794.0,12.1,0,1,0.2,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00008,PR001,Tampa,B,1BR,668.0,7.7,2025-05-12,911.0,976.0,7.09,1,1,1.13,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00009,PR001,Tampa,B,1BR,721.0,4.8,2025-08-10,1015.0,994.0,-2.0,0,2,0.25,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00010,PR001,Tampa,B,1BR,727.0,13.4,2024-11-21,1006.0,993.0,-1.22,0,0,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00011,PR001,Tampa,B,Studio,587.0,34.0,2023-03-05,837.0,861.0,2.89,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00012,PR001,Tampa,B,1BR,756.0,2.1,2025-10-30,982.0,1036.0,5.49,2,0,1.3,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00013,PR001,Tampa,B,2BR,1124.0,1.5,2025-11-17,1600.0,1713.0,7.11,0,1,0.77,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00014,PR001,Tampa,B,1BR,679.0,4.1,2025-08-29,910.0,990.0,8.75,0,0,0.55,Lighting,negative,Common area lighting could be improved.,0
+L00015,PR001,Tampa,B,1BR,755.0,18.1,2024-06-29,1115.0,1190.0,6.7,0,0,0.74,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00016,PR001,Tampa,B,2BR,1133.0,12.6,2024-12-15,1522.0,1685.0,10.73,0,2,1.42,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00017,PR001,Tampa,B,2BR,1127.0,1.5,2025-11-17,1515.0,1585.0,4.63,0,0,0.4,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00018,PR001,Tampa,B,1BR,773.0,35.1,2023-01-29,1112.0,1114.0,0.2,2,0,0.55,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00019,PR001,Tampa,B,2BR,1081.0,21.9,2024-03-08,1514.0,1575.0,3.98,0,1,1.63,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00020,PR001,Tampa,B,1BR,752.0,1.0,2025-12-02,1197.0,1241.0,3.66,0,0,0.2,Amenities,negative,Gym equipment has been broken for months.,1
+L00021,PR001,Tampa,B,2BR,989.0,14.8,2024-10-10,1249.0,1138.0,-5.0,0,1,1.11,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00022,PR001,Tampa,B,2BR,1031.0,20.7,2024-04-14,1453.0,1471.0,1.19,0,1,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00023,PR001,Tampa,B,3BR,1366.0,6.6,2025-06-16,2041.0,2155.0,5.57,0,0,0.2,Amenities,negative,Pool area feels outdated and underused.,1
+L00024,PR001,Tampa,B,2BR,1041.0,1.0,2025-12-02,1407.0,1434.0,1.88,2,0,0.39,Cleanliness,negative,Common areas are not kept clean.,0
+L00025,PR001,Tampa,B,2BR,1117.0,1.1,2025-11-28,1479.0,1490.0,0.77,0,1,1.01,Amenities,negative,Pool area feels outdated and underused.,1
+L00026,PR001,Tampa,B,2BR,1105.0,1.5,2025-11-16,1466.0,1592.0,8.56,0,0,1.69,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00027,PR001,Tampa,B,1BR,801.0,25.7,2023-11-12,1013.0,1007.0,-0.58,0,1,0.59,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00028,PR001,Tampa,B,1BR,786.0,33.8,2023-03-10,1189.0,1279.0,7.56,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00029,PR001,Tampa,B,2BR,1092.0,1.8,2025-11-07,1499.0,1459.0,-2.66,0,0,1.13,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00030,PR001,Tampa,B,1BR,778.0,3.8,2025-09-09,1060.0,1249.0,17.8,0,1,2.95,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00031,PR001,Tampa,B,2BR,1134.0,2.5,2025-10-16,1386.0,1426.0,2.92,2,0,0.6,Lighting,negative,Parking lot lighting is poor at night.,0
+L00032,PR001,Tampa,B,Studio,507.0,2.9,2025-10-06,648.0,664.0,2.38,1,1,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00033,PR001,Tampa,B,1BR,738.0,25.4,2023-11-20,1124.0,1233.0,9.72,1,0,0.67,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00034,PR001,Tampa,B,1BR,746.0,5.7,2025-07-14,1064.0,1084.0,1.91,0,0,0.49,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00035,PR001,Tampa,B,1BR,732.0,5.2,2025-07-27,1097.0,1220.0,11.27,0,1,0.41,Amenities,negative,Pool area feels outdated and underused.,0
+L00036,PR001,Tampa,B,2BR,1135.0,3.6,2025-09-14,1688.0,1787.0,5.86,1,0,1.44,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00037,PR001,Tampa,B,1BR,726.0,13.1,2024-11-29,956.0,989.0,3.41,0,0,1.87,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00038,PR001,Tampa,B,1BR,797.0,6.7,2025-06-13,1278.0,1315.0,2.87,2,0,1.18,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00039,PR001,Tampa,B,1BR,736.0,19.1,2024-05-31,1151.0,1267.0,10.04,1,0,0.36,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00040,PR001,Tampa,B,1BR,768.0,3.2,2025-09-26,1038.0,1092.0,5.15,0,0,1.62,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00041,PR001,Tampa,B,2BR,1089.0,21.7,2024-03-13,1198.0,1272.0,6.16,0,1,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00042,PR001,Tampa,B,Studio,495.0,13.0,2024-12-04,678.0,723.0,6.71,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00043,PR001,Tampa,B,2BR,1079.0,1.7,2025-11-11,1532.0,1604.0,4.66,2,0,0.2,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00044,PR002,Charlotte,A,1BR,733.0,7.5,2025-05-18,1447.0,1573.0,8.72,1,1,2.41,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00045,PR002,Charlotte,A,2BR,1088.0,26.2,2023-10-28,2208.0,2334.0,5.71,0,2,1.39,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00046,PR002,Charlotte,A,2BR,1054.0,13.9,2024-11-06,2032.0,2000.0,-1.56,0,2,0.64,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00047,PR002,Charlotte,A,2BR,1046.0,18.6,2024-06-15,1946.0,2101.0,8.01,1,3,4.4,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00048,PR002,Charlotte,A,2BR,1051.0,20.4,2024-04-20,1841.0,1878.0,2.01,0,2,1.11,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00049,PR002,Charlotte,A,1BR,814.0,9.8,2025-03-08,1412.0,1450.0,2.69,0,5,3.08,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00050,PR002,Charlotte,A,Studio,540.0,11.0,2025-02-02,892.0,905.0,1.46,2,2,2.27,Amenities,negative,Gym equipment has been broken for months.,1
+L00051,PR002,Charlotte,A,1BR,732.0,10.1,2025-02-28,1477.0,1559.0,5.51,2,3,2.49,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00052,PR002,Charlotte,A,1BR,658.0,12.4,2024-12-20,1315.0,1316.0,0.07,0,4,2.24,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00053,PR002,Charlotte,A,2BR,997.0,1.0,2025-12-02,1670.0,1812.0,8.51,2,1,1.86,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00054,PR002,Charlotte,A,2BR,1107.0,7.0,2025-06-01,1959.0,2024.0,3.31,1,2,2.71,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00055,PR002,Charlotte,A,2BR,965.0,13.0,2024-12-01,1813.0,1852.0,2.18,0,3,1.8,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00056,PR002,Charlotte,A,1BR,761.0,12.7,2024-12-10,1368.0,1474.0,7.76,1,0,3.41,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00057,PR002,Charlotte,A,2BR,1022.0,22.0,2024-03-02,1656.0,1695.0,2.4,0,3,2.81,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00058,PR002,Charlotte,A,1BR,753.0,14.9,2024-10-06,1324.0,1440.0,8.74,0,4,2.84,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00059,PR002,Charlotte,A,1BR,752.0,67.8,2020-05-10,1538.0,1675.0,8.9,1,4,1.73,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00060,PR002,Charlotte,A,2BR,1087.0,4.7,2025-08-12,1918.0,1867.0,-2.67,2,2,2.01,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00061,PR002,Charlotte,A,2BR,1059.0,6.2,2025-06-26,1918.0,2102.0,9.55,2,3,1.05,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00062,PR002,Charlotte,A,1BR,734.0,6.8,2025-06-09,1251.0,1209.0,-3.31,0,2,1.89,Lighting,negative,Parking lot lighting is poor at night.,0
+L00063,PR002,Charlotte,A,Studio,501.0,8.8,2025-04-10,950.0,1043.0,9.86,0,2,1.21,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00064,PR002,Charlotte,A,1BR,768.0,25.3,2023-11-24,1415.0,1616.0,14.14,2,1,3.55,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00065,PR002,Charlotte,A,Studio,541.0,3.8,2025-09-09,946.0,1025.0,8.37,1,0,2.29,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00066,PR002,Charlotte,A,2BR,1014.0,20.9,2024-04-05,1711.0,1595.0,-5.0,2,4,2.41,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00067,PR002,Charlotte,A,1BR,748.0,7.3,2025-05-25,1484.0,1623.0,9.32,1,2,2.02,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00068,PR002,Charlotte,A,2BR,1091.0,12.9,2024-12-06,1804.0,2078.0,15.23,0,6,2.44,Lighting,negative,Common area lighting could be improved.,1
+L00069,PR002,Charlotte,A,1BR,757.0,14.0,2024-11-01,1427.0,1462.0,2.48,2,3,4.71,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00070,PR002,Charlotte,A,Studio,524.0,6.5,2025-06-17,836.0,868.0,3.83,1,2,1.94,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00071,PR002,Charlotte,A,1BR,735.0,10.1,2025-03-02,1402.0,1375.0,-1.94,0,4,1.59,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00072,PR002,Charlotte,A,1BR,760.0,7.5,2025-05-20,1473.0,1555.0,5.56,0,3,2.77,Lighting,negative,Common area lighting could be improved.,0
+L00073,PR002,Charlotte,A,1BR,773.0,1.0,2025-12-02,1508.0,1664.0,10.35,1,6,0.2,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00074,PR002,Charlotte,A,1BR,755.0,8.0,2025-05-02,1369.0,1471.0,7.49,0,3,2.31,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00075,PR002,Charlotte,A,2BR,1107.0,1.4,2025-11-19,2219.0,2656.0,19.71,0,1,1.87,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00076,PR002,Charlotte,A,1BR,787.0,7.3,2025-05-26,1640.0,1708.0,4.17,0,2,1.25,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00077,PR002,Charlotte,A,3BR,1225.0,12.6,2024-12-15,2199.0,2107.0,-4.15,2,2,2.75,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00078,PR003,Denver,A,1BR,742.0,14.2,2024-10-28,1119.0,1248.0,11.46,0,0,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00079,PR003,Denver,A,1BR,714.0,20.0,2024-05-02,1054.0,1082.0,2.64,0,2,1.1,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00080,PR003,Denver,A,2BR,1060.0,2.4,2025-10-19,1589.0,1651.0,3.89,2,1,0.2,Amenities,negative,Gym equipment has been broken for months.,0
+L00081,PR003,Denver,A,2BR,1139.0,8.7,2025-04-13,2021.0,2027.0,0.26,1,2,1.96,Amenities,negative,Pool area feels outdated and underused.,1
+L00082,PR003,Denver,A,1BR,821.0,1.0,2025-12-02,1309.0,1203.0,-5.0,1,1,0.31,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00083,PR003,Denver,A,2BR,1163.0,4.0,2025-09-03,2214.0,2401.0,8.42,0,2,0.98,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00084,PR003,Denver,A,2BR,1054.0,18.1,2024-06-29,1680.0,1809.0,7.68,0,2,1.06,Lighting,negative,Common area lighting could be improved.,0
+L00085,PR003,Denver,A,2BR,1020.0,67.3,2020-05-28,1701.0,1745.0,2.59,0,2,0.52,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00086,PR003,Denver,A,3BR,1360.0,1.5,2025-11-18,2451.0,2557.0,4.33,0,1,1.36,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00087,PR003,Denver,A,1BR,684.0,7.2,2025-05-28,1264.0,1347.0,6.58,0,0,0.3,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00088,PR003,Denver,A,2BR,1097.0,22.5,2024-02-16,2035.0,1957.0,-3.81,2,0,1.65,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00089,PR003,Denver,A,1BR,744.0,3.2,2025-09-26,1317.0,1335.0,1.35,1,2,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00090,PR003,Denver,A,2BR,1055.0,11.3,2025-01-22,1847.0,1995.0,7.97,0,1,0.9,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00091,PR003,Denver,A,2BR,994.0,18.5,2024-06-18,1698.0,1660.0,-2.27,1,0,2.71,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00092,PR003,Denver,A,2BR,1108.0,13.4,2024-11-20,1913.0,2018.0,5.47,1,2,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00093,PR003,Denver,A,2BR,1051.0,2.9,2025-10-05,1677.0,1630.0,-2.78,2,3,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00094,PR003,Denver,A,1BR,706.0,6.1,2025-06-29,1108.0,1178.0,6.33,1,1,1.29,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00095,PR003,Denver,A,2BR,925.0,21.4,2024-03-21,1526.0,1584.0,3.82,1,1,0.95,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00096,PR003,Denver,A,3BR,1348.0,11.3,2025-01-23,2202.0,2112.0,-4.08,0,0,1.13,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00097,PR003,Denver,A,3BR,1470.0,1.0,2025-12-02,2359.0,2591.0,9.82,2,0,1.26,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00098,PR003,Denver,A,Studio,563.0,20.0,2024-05-02,968.0,971.0,0.33,0,1,1.41,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00099,PR003,Denver,A,1BR,733.0,1.0,2025-12-02,1279.0,1278.0,-0.05,0,2,1.88,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00100,PR003,Denver,A,1BR,727.0,19.2,2024-05-29,1207.0,1267.0,5.0,1,1,1.18,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00101,PR003,Denver,A,2BR,1105.0,3.2,2025-09-27,1985.0,2179.0,9.74,0,2,0.53,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00102,PR003,Denver,A,2BR,1026.0,44.4,2022-04-23,1577.0,1560.0,-1.08,0,1,1.45,Lighting,negative,Common area lighting could be improved.,1
+L00103,PR003,Denver,A,1BR,761.0,6.4,2025-06-20,1242.0,1295.0,4.31,0,1,2.67,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00104,PR003,Denver,A,1BR,779.0,5.5,2025-07-17,1230.0,1305.0,6.14,0,1,0.64,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00105,PR003,Denver,A,2BR,1146.0,2.3,2025-10-25,1680.0,1805.0,7.47,0,2,0.2,Lighting,negative,Parking lot lighting is poor at night.,1
+L00106,PR003,Denver,A,2BR,1075.0,5.1,2025-07-30,1764.0,1850.0,4.88,1,0,1.88,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00107,PR003,Denver,A,2BR,1069.0,29.3,2023-07-26,1751.0,1789.0,2.16,0,2,0.65,Cleanliness,negative,Common areas are not kept clean.,1
+L00108,PR003,Denver,A,2BR,1033.0,78.5,2019-06-20,1858.0,1856.0,-0.14,0,0,0.2,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00109,PR003,Denver,A,1BR,719.0,6.4,2025-06-20,1231.0,1286.0,4.43,1,0,1.62,Cleanliness,negative,Common areas are not kept clean.,1
+L00110,PR003,Denver,A,1BR,742.0,8.3,2025-04-23,1148.0,1133.0,-1.36,0,0,0.24,Cleanliness,negative,Common areas are not kept clean.,0
+L00111,PR003,Denver,A,2BR,1100.0,17.9,2024-07-06,2017.0,1803.0,-5.0,1,1,0.68,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00112,PR003,Denver,A,2BR,1129.0,30.4,2023-06-22,2000.0,2124.0,6.18,0,2,1.11,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00113,PR003,Denver,A,2BR,1037.0,12.6,2024-12-15,1770.0,1921.0,8.52,0,2,0.97,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00114,PR004,Tampa,B,2BR,1077.0,12.7,2024-12-12,1459.0,1553.0,6.45,0,2,0.23,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00115,PR004,Tampa,B,1BR,762.0,1.5,2025-11-17,1043.0,1148.0,10.07,0,2,1.32,Cleanliness,negative,Common areas are not kept clean.,0
+L00116,PR004,Tampa,B,1BR,811.0,26.3,2023-10-25,1138.0,1134.0,-0.34,0,2,1.07,Amenities,negative,Gym equipment has been broken for months.,1
+L00117,PR004,Tampa,B,2BR,1089.0,10.6,2025-02-13,1378.0,1533.0,11.23,1,0,0.6,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00118,PR004,Tampa,B,Studio,510.0,25.8,2023-11-09,704.0,737.0,4.7,1,2,0.22,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00119,PR004,Tampa,B,1BR,730.0,12.2,2024-12-28,1040.0,1144.0,10.05,1,0,0.44,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00120,PR004,Tampa,B,2BR,1078.0,11.5,2025-01-17,1433.0,1388.0,-3.2,0,3,2.27,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00121,PR004,Tampa,B,1BR,716.0,1.6,2025-11-15,1043.0,1094.0,4.9,0,0,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00122,PR004,Tampa,B,Studio,521.0,2.6,2025-10-16,693.0,726.0,4.73,1,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00123,PR004,Tampa,B,2BR,1077.0,50.1,2021-11-01,1400.0,1412.0,0.9,1,1,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00124,PR004,Tampa,B,2BR,1169.0,3.6,2025-09-13,1655.0,1747.0,5.57,2,0,0.84,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00125,PR004,Tampa,B,2BR,1075.0,53.1,2021-08-02,1653.0,1847.0,11.7,1,0,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00126,PR004,Tampa,B,1BR,678.0,10.6,2025-02-12,933.0,938.0,0.52,2,2,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00127,PR004,Tampa,B,1BR,850.0,2.0,2025-10-31,1209.0,1316.0,8.81,0,1,0.44,Amenities,negative,Pool area feels outdated and underused.,1
+L00128,PR004,Tampa,B,1BR,786.0,1.5,2025-11-18,1044.0,1027.0,-1.64,0,1,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00129,PR004,Tampa,B,2BR,1192.0,3.3,2025-09-24,1512.0,1732.0,14.55,1,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00130,PR004,Tampa,B,2BR,1018.0,36.4,2022-12-22,1408.0,1519.0,7.92,0,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00131,PR004,Tampa,B,Studio,514.0,7.5,2025-05-19,718.0,809.0,12.63,0,0,0.2,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00132,PR004,Tampa,B,2BR,1116.0,7.0,2025-06-01,1497.0,1607.0,7.36,0,2,1.44,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00133,PR004,Tampa,B,Studio,534.0,5.3,2025-07-26,759.0,804.0,5.95,0,1,1.66,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00134,PR004,Tampa,B,1BR,762.0,2.2,2025-10-26,1002.0,1082.0,7.96,0,1,2.62,Amenities,negative,Pool area feels outdated and underused.,0
+L00135,PR004,Tampa,B,Studio,463.0,9.4,2025-03-23,600.0,620.0,3.32,1,1,2.59,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00136,PR004,Tampa,B,1BR,686.0,2.0,2025-11-03,999.0,958.0,-4.09,0,2,1.49,Lighting,negative,Common area lighting could be improved.,1
+L00137,PR004,Tampa,B,1BR,807.0,25.3,2023-11-25,1176.0,1249.0,6.24,0,2,1.73,Cleanliness,negative,Common areas are not kept clean.,1
+L00138,PR004,Tampa,B,1BR,814.0,6.5,2025-06-19,1072.0,1075.0,0.22,0,0,0.84,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00139,PR004,Tampa,B,1BR,746.0,6.6,2025-06-16,1127.0,1110.0,-1.51,0,1,1.22,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00140,PR004,Tampa,B,2BR,1155.0,9.0,2025-04-03,1555.0,1667.0,7.18,2,2,2.65,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00141,PR004,Tampa,B,Studio,493.0,8.2,2025-04-27,679.0,697.0,2.6,0,1,1.08,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00142,PR004,Tampa,B,2BR,1037.0,73.8,2019-11-11,1414.0,1543.0,9.14,0,1,1.86,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00143,PR004,Tampa,B,3BR,1276.0,11.0,2025-01-31,1802.0,1803.0,0.06,0,0,0.2,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00144,PR004,Tampa,B,1BR,718.0,1.3,2025-11-23,1000.0,1016.0,1.65,0,2,0.2,Amenities,negative,Pool area feels outdated and underused.,1
+L00145,PR004,Tampa,B,1BR,777.0,13.1,2024-11-30,1081.0,1187.0,9.75,0,1,1.02,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00146,PR004,Tampa,B,1BR,718.0,2.3,2025-10-24,923.0,973.0,5.4,2,1,0.85,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00147,PR004,Tampa,B,Studio,578.0,1.0,2025-12-02,712.0,688.0,-3.39,1,4,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00148,PR004,Tampa,B,1BR,767.0,49.4,2021-11-20,1123.0,1183.0,5.29,0,1,3.11,Amenities,negative,Pool area feels outdated and underused.,1
+L00149,PR004,Tampa,B,2BR,1139.0,20.8,2024-04-09,1509.0,1681.0,11.41,2,1,0.88,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00150,PR005,Phoenix,B,Studio,492.0,11.1,2025-01-30,766.0,782.0,2.0,0,1,1.77,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00151,PR005,Phoenix,B,2BR,1119.0,10.6,2025-02-12,1733.0,1828.0,5.5,0,0,0.52,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00152,PR005,Phoenix,B,1BR,786.0,12.5,2024-12-18,1261.0,1342.0,6.43,0,0,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00153,PR005,Phoenix,B,1BR,705.0,1.0,2025-12-02,1099.0,1211.0,10.24,0,0,0.59,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00154,PR005,Phoenix,B,2BR,1070.0,6.3,2025-06-24,1829.0,1908.0,4.27,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00155,PR005,Phoenix,B,1BR,740.0,18.0,2024-07-04,1158.0,1374.0,18.62,1,1,2.13,Amenities,negative,Gym equipment has been broken for months.,1
+L00156,PR005,Phoenix,B,Studio,526.0,3.1,2025-09-28,802.0,846.0,5.53,1,0,0.54,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00157,PR005,Phoenix,B,2BR,1069.0,3.2,2025-09-27,1768.0,2002.0,13.21,0,0,1.22,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00158,PR005,Phoenix,B,Studio,518.0,1.0,2025-12-02,784.0,724.0,-5.0,0,2,2.53,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00159,PR005,Phoenix,B,2BR,1115.0,8.1,2025-05-02,1631.0,1806.0,10.75,1,0,0.2,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00160,PR005,Phoenix,B,2BR,1020.0,30.0,2023-07-04,1686.0,1738.0,3.1,2,2,0.86,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00161,PR005,Phoenix,B,1BR,778.0,1.0,2025-12-02,1141.0,1076.0,-5.0,0,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00162,PR005,Phoenix,B,2BR,1142.0,3.0,2025-10-03,1959.0,2079.0,6.1,2,2,0.77,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00163,PR005,Phoenix,B,1BR,811.0,5.2,2025-07-28,1219.0,1249.0,2.49,0,0,2.19,Lighting,negative,Parking lot lighting is poor at night.,0
+L00164,PR005,Phoenix,B,1BR,670.0,18.4,2024-06-21,951.0,1016.0,6.9,1,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00165,PR005,Phoenix,B,Studio,515.0,14.3,2024-10-23,830.0,905.0,9.06,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00166,PR005,Phoenix,B,1BR,676.0,7.5,2025-05-18,1119.0,1080.0,-3.45,0,1,0.33,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00167,PR005,Phoenix,B,3BR,1186.0,19.9,2024-05-06,2002.0,2183.0,9.07,2,0,2.47,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00168,PR005,Phoenix,B,1BR,755.0,13.2,2024-11-27,1252.0,1302.0,4.03,0,0,1.19,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00169,PR006,Nashville,C,2BR,1083.0,8.3,2025-04-25,1166.0,1160.0,-0.49,0,1,1.54,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00170,PR006,Nashville,C,3BR,1359.0,22.9,2024-02-04,1709.0,1720.0,0.63,2,1,2.11,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00171,PR006,Nashville,C,2BR,1096.0,1.0,2025-12-02,1467.0,1523.0,3.87,0,2,1.57,Lighting,negative,Parking lot lighting is poor at night.,0
+L00172,PR006,Nashville,C,Studio,540.0,36.2,2022-12-29,713.0,721.0,1.06,1,1,0.2,Lighting,negative,Common area lighting could be improved.,1
+L00173,PR006,Nashville,C,2BR,1080.0,8.2,2025-04-27,1515.0,1619.0,6.86,2,1,1.18,Lighting,negative,Common area lighting could be improved.,1
+L00174,PR006,Nashville,C,1BR,763.0,11.3,2025-01-23,994.0,997.0,0.26,0,2,2.42,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00175,PR006,Nashville,C,2BR,1078.0,4.1,2025-08-29,1421.0,1489.0,4.77,1,0,2.64,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00176,PR006,Nashville,C,2BR,1025.0,19.0,2024-06-03,1176.0,1293.0,9.9,0,2,0.45,Lighting,negative,Common area lighting could be improved.,0
+L00177,PR006,Nashville,C,2BR,1082.0,1.1,2025-11-29,1313.0,1363.0,3.82,1,2,1.72,Lighting,negative,Parking lot lighting is poor at night.,1
+L00178,PR006,Nashville,C,1BR,778.0,28.8,2023-08-08,896.0,948.0,5.78,2,4,2.16,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00179,PR006,Nashville,C,1BR,792.0,24.7,2023-12-14,1056.0,1114.0,5.46,0,0,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00180,PR006,Nashville,C,1BR,770.0,3.4,2025-09-20,1014.0,1055.0,4.04,0,1,0.25,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00181,PR006,Nashville,C,2BR,1152.0,23.2,2024-01-27,1514.0,1570.0,3.66,0,1,2.99,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00182,PR006,Nashville,C,1BR,766.0,21.6,2024-03-16,936.0,946.0,1.14,2,3,0.47,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00183,PR006,Nashville,C,1BR,782.0,14.0,2024-11-02,950.0,996.0,4.76,0,1,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00184,PR006,Nashville,C,2BR,1131.0,6.5,2025-06-16,1477.0,1515.0,2.58,1,1,0.65,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00185,PR006,Nashville,C,2BR,1068.0,4.4,2025-08-20,1322.0,1477.0,11.73,0,1,1.89,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00186,PR006,Nashville,C,1BR,777.0,3.7,2025-09-11,941.0,1017.0,8.06,2,0,0.77,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00187,PR006,Nashville,C,2BR,1029.0,5.4,2025-07-22,1287.0,1245.0,-3.26,2,4,1.48,Amenities,negative,Pool area feels outdated and underused.,1
+L00188,PR006,Nashville,C,1BR,763.0,32.7,2023-04-12,945.0,917.0,-2.99,0,4,1.7,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00189,PR006,Nashville,C,1BR,772.0,1.1,2025-11-28,944.0,975.0,3.35,1,1,0.41,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00190,PR006,Nashville,C,Studio,547.0,24.7,2023-12-12,654.0,667.0,2.02,0,0,0.25,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00191,PR006,Nashville,C,1BR,781.0,6.0,2025-07-03,1034.0,1066.0,3.08,2,0,0.92,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00192,PR006,Nashville,C,1BR,790.0,10.3,2025-02-22,1114.0,1195.0,7.26,2,3,0.94,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00193,PR006,Nashville,C,2BR,1075.0,22.2,2024-02-28,1383.0,1460.0,5.58,0,0,0.82,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00194,PR006,Nashville,C,Studio,511.0,30.2,2023-06-28,668.0,705.0,5.53,0,0,0.86,Lighting,negative,Parking lot lighting is poor at night.,1
+L00195,PR006,Nashville,C,1BR,740.0,5.9,2025-07-06,985.0,1096.0,11.23,0,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00196,PR006,Nashville,C,3BR,1368.0,8.7,2025-04-13,1803.0,1750.0,-2.94,2,0,1.52,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00197,PR006,Nashville,C,Studio,473.0,7.5,2025-05-19,579.0,605.0,4.52,0,0,1.37,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00198,PR006,Nashville,C,1BR,800.0,1.0,2025-12-02,1138.0,1151.0,1.1,0,2,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00199,PR006,Nashville,C,2BR,1082.0,4.9,2025-08-05,1333.0,1482.0,11.18,1,0,0.38,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00200,PR006,Nashville,C,3BR,1322.0,8.6,2025-04-15,1772.0,1647.0,-5.0,0,1,0.86,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00201,PR006,Nashville,C,2BR,943.0,7.4,2025-05-21,1256.0,1170.0,-5.0,1,1,0.23,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00202,PR006,Nashville,C,2BR,1078.0,17.9,2024-07-06,1227.0,1295.0,5.52,0,1,1.4,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00203,PR006,Nashville,C,2BR,1069.0,6.8,2025-06-09,1350.0,1480.0,9.63,0,0,0.7,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00204,PR007,Denver,A,1BR,772.0,24.6,2023-12-15,1324.0,1386.0,4.65,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00205,PR007,Denver,A,1BR,709.0,2.6,2025-10-14,1177.0,1206.0,2.49,1,0,1.76,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00206,PR007,Denver,A,2BR,1130.0,1.0,2025-12-02,2084.0,2009.0,-3.6,0,0,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00207,PR007,Denver,A,1BR,731.0,3.2,2025-09-26,1324.0,1362.0,2.83,0,0,1.9,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00208,PR007,Denver,A,Studio,507.0,5.8,2025-07-08,946.0,917.0,-3.08,0,1,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00209,PR007,Denver,A,2BR,1035.0,10.0,2025-03-03,1690.0,1813.0,7.27,0,2,3.37,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00210,PR007,Denver,A,2BR,978.0,13.4,2024-11-21,1628.0,1541.0,-5.0,1,0,2.24,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00211,PR007,Denver,A,2BR,1092.0,33.8,2023-03-11,2090.0,2281.0,9.14,1,1,0.38,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00212,PR007,Denver,A,1BR,814.0,10.0,2025-03-04,1486.0,1578.0,6.15,0,0,1.32,Amenities,negative,Pool area feels outdated and underused.,0
+L00213,PR007,Denver,A,2BR,1077.0,9.7,2025-03-11,1989.0,2111.0,6.17,0,2,0.2,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00214,PR007,Denver,A,1BR,681.0,1.0,2025-12-02,1148.0,1070.0,-5.0,1,0,1.0,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00215,PR007,Denver,A,1BR,779.0,1.0,2025-12-02,1313.0,1344.0,2.36,2,1,0.76,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00216,PR007,Denver,A,2BR,992.0,11.2,2025-01-26,1882.0,2066.0,9.77,2,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00217,PR007,Denver,A,1BR,705.0,8.1,2025-05-01,1340.0,1359.0,1.41,0,3,0.47,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00218,PR007,Denver,A,1BR,741.0,25.6,2023-11-16,1240.0,1223.0,-1.39,0,1,0.37,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00219,PR007,Denver,A,Studio,523.0,2.5,2025-10-19,865.0,872.0,0.82,0,0,0.2,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00220,PR007,Denver,A,2BR,1026.0,1.0,2025-12-02,1824.0,1890.0,3.66,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00221,PR007,Denver,A,2BR,1065.0,8.3,2025-04-23,1815.0,1810.0,-0.26,0,2,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00222,PR007,Denver,A,2BR,1119.0,3.8,2025-09-08,1904.0,2097.0,10.17,1,0,1.8,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00223,PR007,Denver,A,2BR,1126.0,1.0,2025-12-02,1864.0,1933.0,3.68,2,1,0.2,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00224,PR007,Denver,A,1BR,797.0,18.1,2024-07-02,1386.0,1403.0,1.22,0,3,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00225,PR007,Denver,A,1BR,822.0,1.7,2025-11-12,1369.0,1334.0,-2.51,2,1,1.78,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00226,PR007,Denver,A,1BR,780.0,13.1,2024-11-29,1305.0,1389.0,6.42,1,0,1.31,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00227,PR007,Denver,A,Studio,514.0,4.6,2025-08-14,937.0,996.0,6.31,0,0,1.75,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00228,PR007,Denver,A,1BR,782.0,2.7,2025-10-12,1396.0,1396.0,0.04,1,0,1.86,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00229,PR007,Denver,A,3BR,1382.0,6.7,2025-06-12,2545.0,2362.0,-5.0,1,2,2.88,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00230,PR007,Denver,A,Studio,533.0,22.6,2024-02-13,860.0,912.0,6.05,2,2,0.79,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00231,PR007,Denver,A,1BR,757.0,7.0,2025-06-04,1355.0,1397.0,3.07,0,1,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00232,PR007,Denver,A,1BR,716.0,19.5,2024-05-20,1441.0,1523.0,5.68,1,3,1.21,Lighting,negative,Parking lot lighting is poor at night.,1
+L00233,PR007,Denver,A,1BR,711.0,1.9,2025-11-05,1245.0,1417.0,13.79,2,1,0.27,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00234,PR007,Denver,A,3BR,1343.0,20.7,2024-04-11,2524.0,2621.0,3.87,0,0,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00235,PR007,Denver,A,1BR,756.0,3.8,2025-09-08,1419.0,1439.0,1.43,0,1,1.04,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00236,PR007,Denver,A,1BR,725.0,15.8,2024-09-07,1364.0,1341.0,-1.74,0,0,1.81,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00237,PR007,Denver,A,2BR,1103.0,11.7,2025-01-11,1994.0,2042.0,2.44,0,2,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00238,PR007,Denver,A,1BR,828.0,37.1,2022-12-02,1533.0,1606.0,4.8,2,0,2.22,Amenities,negative,Gym equipment has been broken for months.,0
+L00239,PR007,Denver,A,1BR,685.0,6.9,2025-06-07,1277.0,1331.0,4.27,0,0,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00240,PR007,Denver,A,1BR,772.0,1.0,2025-12-02,1434.0,1615.0,12.62,1,0,0.7,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00241,PR007,Denver,A,2BR,1076.0,1.0,2025-12-02,1798.0,1914.0,6.5,0,0,1.33,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00242,PR007,Denver,A,3BR,1380.0,24.6,2023-12-17,2218.0,2292.0,3.33,0,1,0.55,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00243,PR007,Denver,A,2BR,1057.0,10.4,2025-02-19,1715.0,1723.0,0.47,2,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00244,PR007,Denver,A,1BR,745.0,20.9,2024-04-06,1311.0,1381.0,5.33,0,4,1.87,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00245,PR008,Denver,B,1BR,766.0,12.2,2024-12-25,1093.0,1175.0,7.48,0,3,2.56,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00246,PR008,Denver,B,2BR,943.0,18.3,2024-06-23,1570.0,1543.0,-1.71,1,1,2.4,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00247,PR008,Denver,B,1BR,776.0,6.4,2025-06-22,1119.0,1158.0,3.44,0,1,1.11,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00248,PR008,Denver,B,2BR,1087.0,14.3,2024-10-23,1637.0,1636.0,-0.02,0,1,2.22,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00249,PR008,Denver,B,2BR,1068.0,8.8,2025-04-09,1630.0,1663.0,2.06,0,1,3.12,Maintenance,negative,Maintenance request took 3 days to get resolved.,1
+L00250,PR008,Denver,B,2BR,1191.0,2.9,2025-10-04,1788.0,1822.0,1.93,0,2,1.97,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00251,PR008,Denver,B,2BR,1044.0,16.9,2024-08-05,1548.0,1573.0,1.61,2,0,1.7,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00252,PR008,Denver,B,2BR,1058.0,11.4,2025-01-20,1464.0,1430.0,-2.28,2,4,1.42,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00253,PR008,Denver,B,1BR,825.0,6.2,2025-06-26,1336.0,1381.0,3.36,2,2,1.87,Amenities,negative,Gym equipment has been broken for months.,1
+L00254,PR008,Denver,B,2BR,1035.0,33.9,2023-03-07,1709.0,1730.0,1.2,0,1,0.86,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00255,PR008,Denver,B,2BR,1050.0,1.0,2025-12-02,1407.0,1257.0,-5.0,1,2,0.94,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00256,PR008,Denver,B,1BR,744.0,5.3,2025-07-24,1041.0,1190.0,14.26,0,2,1.67,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00257,PR008,Denver,B,Studio,542.0,1.0,2025-12-02,794.0,869.0,9.44,0,0,0.75,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00258,PR008,Denver,B,1BR,758.0,20.4,2024-04-22,1064.0,1086.0,2.12,0,1,0.86,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00259,PR008,Denver,B,1BR,702.0,17.0,2024-08-04,1077.0,1121.0,4.09,0,2,1.22,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00260,PR008,Denver,B,2BR,1051.0,5.6,2025-07-14,1498.0,1470.0,-1.86,2,1,2.37,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00261,PR008,Denver,B,2BR,1047.0,15.8,2024-09-09,1763.0,1983.0,12.48,0,3,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00262,PR008,Denver,B,1BR,747.0,7.1,2025-06-01,1193.0,1354.0,13.49,1,1,1.98,Lighting,negative,Parking lot lighting is poor at night.,0
+L00263,PR008,Denver,B,1BR,766.0,19.8,2024-05-11,1156.0,1211.0,4.78,2,1,2.01,Lighting,negative,Parking lot lighting is poor at night.,0
+L00264,PR008,Denver,B,3BR,1378.0,8.5,2025-04-19,2180.0,2379.0,9.12,0,2,2.01,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00265,PR008,Denver,B,Studio,474.0,7.4,2025-05-20,753.0,790.0,4.88,0,0,0.41,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L00266,PR008,Denver,B,1BR,790.0,38.2,2022-10-28,1137.0,1107.0,-2.68,0,1,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00267,PR008,Denver,B,2BR,1094.0,4.0,2025-09-01,1550.0,1580.0,1.94,0,1,1.78,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00268,PR008,Denver,B,2BR,1155.0,1.8,2025-11-08,1729.0,1809.0,4.66,0,2,1.41,Cleanliness,negative,Common areas are not kept clean.,1
+L00269,PR008,Denver,B,Studio,532.0,12.3,2024-12-24,833.0,847.0,1.73,2,1,2.23,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00270,PR008,Denver,B,Studio,549.0,48.8,2021-12-11,824.0,848.0,2.91,0,2,0.52,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00271,PR008,Denver,B,Studio,532.0,6.6,2025-06-14,718.0,743.0,3.54,2,2,1.98,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00272,PR008,Denver,B,2BR,1153.0,1.0,2025-12-02,1635.0,1694.0,3.6,1,0,2.28,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00273,PR008,Denver,B,2BR,1108.0,5.8,2025-07-09,1644.0,1714.0,4.26,0,4,1.13,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00274,PR008,Denver,B,1BR,746.0,9.9,2025-03-07,1107.0,1093.0,-1.3,0,3,1.64,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00275,PR008,Denver,B,2BR,1203.0,2.5,2025-10-18,2004.0,2012.0,0.41,0,0,1.6,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00276,PR008,Denver,B,2BR,1128.0,15.0,2024-10-02,1541.0,1504.0,-2.42,0,1,0.4,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00277,PR008,Denver,B,Studio,535.0,85.4,2018-11-25,821.0,894.0,8.89,0,1,1.75,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00278,PR008,Denver,B,1BR,702.0,8.4,2025-04-21,1140.0,1065.0,-5.0,0,2,2.84,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00279,PR008,Denver,B,2BR,1010.0,6.1,2025-06-29,1711.0,1878.0,9.77,1,1,1.24,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00280,PR008,Denver,B,1BR,761.0,7.2,2025-05-29,1106.0,1227.0,10.93,1,0,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00281,PR008,Denver,B,1BR,755.0,1.7,2025-11-10,1159.0,1188.0,2.49,1,0,0.53,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00282,PR008,Denver,B,2BR,1047.0,30.1,2023-07-02,1613.0,1468.0,-5.0,1,1,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00283,PR008,Denver,B,2BR,1088.0,7.5,2025-05-18,1640.0,1676.0,2.19,0,1,2.51,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00284,PR008,Denver,B,2BR,1166.0,6.9,2025-06-07,1727.0,1790.0,3.68,0,1,1.98,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00285,PR009,Tampa,B,1BR,697.0,1.0,2025-12-02,1148.0,1152.0,0.36,2,2,1.56,Amenities,negative,Pool area feels outdated and underused.,0
+L00286,PR009,Tampa,B,3BR,1285.0,4.9,2025-08-04,1965.0,2075.0,5.6,0,1,1.88,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00287,PR009,Tampa,B,2BR,1059.0,5.0,2025-08-04,1763.0,1980.0,12.27,0,0,1.86,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00288,PR009,Tampa,B,1BR,796.0,5.4,2025-07-21,1244.0,1302.0,4.7,0,0,1.03,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00289,PR009,Tampa,B,1BR,764.0,2.5,2025-10-17,1300.0,1417.0,8.98,0,0,1.74,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00290,PR009,Tampa,B,3BR,1285.0,21.4,2024-03-22,2124.0,2061.0,-2.95,0,0,0.2,Lighting,negative,Parking lot lighting is poor at night.,1
+L00291,PR009,Tampa,B,2BR,1063.0,1.8,2025-11-07,1547.0,1621.0,4.79,2,1,1.43,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00292,PR009,Tampa,B,Studio,504.0,14.1,2024-10-30,864.0,851.0,-1.49,1,3,0.69,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00293,PR009,Tampa,B,2BR,1042.0,1.9,2025-11-06,1802.0,1741.0,-3.38,1,2,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00294,PR009,Tampa,B,1BR,787.0,1.0,2025-12-01,1221.0,1224.0,0.3,0,0,0.2,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00295,PR009,Tampa,B,Studio,484.0,33.6,2023-03-16,819.0,901.0,9.96,0,2,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00296,PR009,Tampa,B,1BR,810.0,3.0,2025-10-04,1268.0,1379.0,8.75,0,0,1.26,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00297,PR009,Tampa,B,1BR,781.0,24.1,2023-12-31,1296.0,1364.0,5.22,0,0,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00298,PR009,Tampa,B,2BR,1139.0,11.0,2025-02-01,1737.0,1673.0,-3.66,0,2,0.25,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00299,PR009,Tampa,B,1BR,733.0,1.1,2025-11-28,1079.0,1111.0,3.02,0,0,1.61,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00300,PR009,Tampa,B,2BR,1072.0,43.6,2022-05-18,1728.0,1823.0,5.51,0,1,0.29,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00301,PR009,Tampa,B,Studio,483.0,4.0,2025-09-03,791.0,829.0,4.88,2,0,2.18,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00302,PR009,Tampa,B,1BR,730.0,27.5,2023-09-19,1176.0,1115.0,-5.0,1,1,2.01,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00303,PR009,Tampa,B,1BR,769.0,2.6,2025-10-15,1178.0,1173.0,-0.45,0,0,0.87,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00304,PR009,Tampa,B,1BR,799.0,26.9,2023-10-06,1286.0,1333.0,3.68,1,1,1.6,Lighting,negative,Parking lot lighting is poor at night.,1
+L00305,PR009,Tampa,B,Studio,491.0,1.0,2025-12-02,824.0,879.0,6.68,1,3,1.46,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00306,PR009,Tampa,B,1BR,736.0,10.0,2025-03-02,1212.0,1127.0,-5.0,2,0,0.6,Amenities,negative,Gym equipment has been broken for months.,1
+L00307,PR009,Tampa,B,2BR,1072.0,20.5,2024-04-17,1788.0,1845.0,3.19,0,0,1.71,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00308,PR009,Tampa,B,1BR,698.0,38.2,2022-10-28,1105.0,1157.0,4.72,0,2,1.85,Lighting,negative,Parking lot lighting is poor at night.,1
+L00309,PR009,Tampa,B,1BR,772.0,33.6,2023-03-17,1364.0,1476.0,8.25,0,3,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00310,PR009,Tampa,B,1BR,723.0,24.0,2024-01-04,1109.0,1191.0,7.46,1,0,1.0,Amenities,negative,Pool area feels outdated and underused.,0
+L00311,PR009,Tampa,B,2BR,1069.0,30.7,2023-06-14,1816.0,1942.0,6.91,0,1,0.99,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00312,PR009,Tampa,B,3BR,1319.0,3.1,2025-09-29,2332.0,2332.0,0.0,1,0,1.7,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00313,PR009,Tampa,B,1BR,720.0,4.7,2025-08-12,1223.0,1155.0,-5.0,0,2,0.4,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00314,PR009,Tampa,B,1BR,750.0,4.8,2025-08-09,1222.0,1247.0,2.03,1,2,0.25,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00315,PR009,Tampa,B,Studio,514.0,6.6,2025-06-14,822.0,896.0,9.01,0,0,1.01,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00316,PR009,Tampa,B,3BR,1325.0,7.0,2025-06-03,2322.0,2577.0,10.97,2,0,2.03,Amenities,negative,Pool area feels outdated and underused.,0
+L00317,PR010,Dallas,A,3BR,1333.0,1.0,2025-12-02,2267.0,2207.0,-2.65,2,0,1.35,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00318,PR010,Dallas,A,2BR,1097.0,5.0,2025-08-03,1909.0,1980.0,3.69,1,0,1.08,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00319,PR010,Dallas,A,2BR,1092.0,9.0,2025-04-03,1907.0,1974.0,3.51,1,0,0.67,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00320,PR010,Dallas,A,3BR,1435.0,2.6,2025-10-15,2477.0,2696.0,8.88,1,0,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00321,PR010,Dallas,A,1BR,680.0,6.1,2025-06-29,1181.0,1171.0,-0.86,0,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00322,PR010,Dallas,A,2BR,1086.0,7.2,2025-05-29,1573.0,1713.0,8.91,1,0,0.2,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00323,PR010,Dallas,A,1BR,793.0,1.0,2025-12-02,1393.0,1442.0,3.51,2,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00324,PR010,Dallas,A,2BR,1075.0,12.3,2024-12-25,1913.0,1884.0,-1.54,2,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00325,PR010,Dallas,A,1BR,714.0,30.2,2023-06-28,1335.0,1301.0,-2.54,0,0,0.52,Lighting,negative,Common area lighting could be improved.,1
+L00326,PR010,Dallas,A,3BR,1309.0,2.3,2025-10-23,2315.0,2632.0,13.67,0,0,0.2,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00327,PR010,Dallas,A,1BR,735.0,12.8,2024-12-10,1262.0,1302.0,3.2,2,0,0.43,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00328,PR010,Dallas,A,1BR,723.0,15.3,2024-09-23,1334.0,1449.0,8.68,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00329,PR010,Dallas,A,2BR,1072.0,7.6,2025-05-15,1592.0,1520.0,-4.54,0,1,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00330,PR010,Dallas,A,1BR,807.0,16.9,2024-08-06,1352.0,1585.0,17.19,0,1,1.35,Amenities,negative,Pool area feels outdated and underused.,0
+L00331,PR010,Dallas,A,2BR,1048.0,7.4,2025-05-21,1729.0,1876.0,8.47,2,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00332,PR010,Dallas,A,1BR,732.0,9.8,2025-03-09,1263.0,1298.0,2.72,0,0,0.84,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00333,PR010,Dallas,A,2BR,1105.0,1.0,2025-12-02,1659.0,1700.0,2.47,0,2,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00334,PR010,Dallas,A,1BR,743.0,16.5,2024-08-19,1388.0,1494.0,7.67,2,0,1.03,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00335,PR011,Phoenix,B,Studio,529.0,7.1,2025-05-31,855.0,942.0,10.18,2,0,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00336,PR011,Phoenix,B,1BR,861.0,7.9,2025-05-06,1168.0,1256.0,7.6,0,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00337,PR011,Phoenix,B,1BR,790.0,11.8,2025-01-08,1209.0,1175.0,-2.75,2,2,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00338,PR011,Phoenix,B,2BR,1125.0,1.0,2025-12-02,1673.0,1946.0,16.32,0,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00339,PR011,Phoenix,B,2BR,1039.0,4.2,2025-08-26,1434.0,1515.0,5.63,0,2,0.34,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00340,PR011,Phoenix,B,1BR,770.0,10.2,2025-02-25,1191.0,1266.0,6.3,0,1,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00341,PR011,Phoenix,B,1BR,806.0,17.9,2024-07-05,1167.0,1345.0,15.22,0,0,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00342,PR011,Phoenix,B,1BR,744.0,2.7,2025-10-12,1349.0,1521.0,12.7,0,1,2.25,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00343,PR011,Phoenix,B,2BR,1074.0,11.1,2025-01-30,1498.0,1617.0,7.91,1,1,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00344,PR011,Phoenix,B,1BR,755.0,17.5,2024-07-17,1072.0,1159.0,8.15,2,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00345,PR011,Phoenix,B,1BR,725.0,8.2,2025-04-26,1167.0,1268.0,8.61,1,0,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00346,PR011,Phoenix,B,1BR,760.0,1.0,2025-12-02,1154.0,1186.0,2.8,1,0,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00347,PR011,Phoenix,B,Studio,526.0,8.4,2025-04-23,846.0,892.0,5.43,0,0,0.88,Lighting,negative,Parking lot lighting is poor at night.,1
+L00348,PR011,Phoenix,B,2BR,1160.0,4.9,2025-08-05,1815.0,1940.0,6.87,0,0,0.81,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00349,PR011,Phoenix,B,Studio,515.0,37.2,2022-11-29,761.0,786.0,3.37,0,0,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00350,PR011,Phoenix,B,2BR,1116.0,1.9,2025-11-06,1567.0,1554.0,-0.83,0,0,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00351,PR011,Phoenix,B,1BR,744.0,14.8,2024-10-09,1212.0,1244.0,2.67,0,0,1.62,Cleanliness,negative,Common areas are not kept clean.,0
+L00352,PR011,Phoenix,B,1BR,774.0,1.0,2025-12-02,1093.0,1082.0,-0.94,2,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00353,PR011,Phoenix,B,2BR,1066.0,8.3,2025-04-25,1686.0,1759.0,4.32,1,0,0.25,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L00354,PR011,Phoenix,B,3BR,1389.0,11.3,2025-01-23,2242.0,2132.0,-4.9,2,0,0.44,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00355,PR011,Phoenix,B,2BR,1119.0,5.0,2025-08-04,1700.0,1796.0,5.71,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00356,PR011,Phoenix,B,1BR,710.0,8.5,2025-04-18,1066.0,1022.0,-4.16,0,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00357,PR011,Phoenix,B,1BR,791.0,2.5,2025-10-17,1139.0,1162.0,1.98,0,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00358,PR011,Phoenix,B,2BR,1071.0,5.1,2025-07-31,1684.0,1794.0,6.52,1,0,0.94,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00359,PR011,Phoenix,B,1BR,732.0,13.6,2024-11-14,916.0,989.0,7.96,2,1,0.2,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00360,PR011,Phoenix,B,1BR,723.0,5.0,2025-08-02,1154.0,1239.0,7.36,0,0,1.37,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00361,PR011,Phoenix,B,2BR,1096.0,32.2,2023-04-29,1689.0,1784.0,5.6,2,0,0.23,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00362,PR011,Phoenix,B,2BR,1080.0,13.9,2024-11-06,1630.0,1604.0,-1.6,0,0,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00363,PR011,Phoenix,B,3BR,1375.0,8.1,2025-05-01,2134.0,2324.0,8.9,0,0,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00364,PR011,Phoenix,B,3BR,1376.0,1.0,2025-12-02,1932.0,1904.0,-1.48,0,0,1.33,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00365,PR011,Phoenix,B,2BR,1113.0,9.7,2025-03-13,1456.0,1594.0,9.47,1,0,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00366,PR011,Phoenix,B,Studio,592.0,20.3,2024-04-26,932.0,998.0,7.14,1,0,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00367,PR011,Phoenix,B,Studio,521.0,4.3,2025-08-23,860.0,953.0,10.79,0,0,1.36,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00368,PR011,Phoenix,B,2BR,1040.0,23.0,2024-02-02,1426.0,1484.0,4.12,0,0,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00369,PR011,Phoenix,B,1BR,674.0,4.1,2025-08-31,966.0,966.0,-0.09,0,0,0.21,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00370,PR011,Phoenix,B,1BR,705.0,24.3,2023-12-25,1128.0,1100.0,-2.46,0,0,1.12,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00371,PR012,Tampa,A,2BR,1073.0,1.0,2025-12-02,2426.0,2533.0,4.4,2,3,1.86,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00372,PR012,Tampa,A,2BR,1082.0,1.2,2025-11-27,2406.0,2423.0,0.71,2,2,1.65,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00373,PR012,Tampa,A,2BR,1073.0,15.6,2024-09-14,2195.0,2357.0,7.4,0,0,1.65,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00374,PR012,Tampa,A,Studio,505.0,16.4,2024-08-22,1109.0,1161.0,4.69,1,4,0.72,Lighting,negative,Common area lighting could be improved.,1
+L00375,PR012,Tampa,A,1BR,761.0,5.8,2025-07-08,1565.0,1658.0,5.99,0,0,2.04,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00376,PR012,Tampa,A,3BR,1288.0,3.4,2025-09-20,2879.0,3025.0,5.08,0,2,1.8,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00377,PR012,Tampa,A,1BR,707.0,23.5,2024-01-17,1609.0,1689.0,5.03,2,2,2.17,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00378,PR012,Tampa,A,Studio,538.0,3.4,2025-09-19,1120.0,1210.0,8.0,2,3,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00379,PR012,Tampa,A,2BR,1113.0,10.9,2025-02-03,2556.0,2989.0,16.92,0,5,1.83,Cleanliness,negative,Common areas are not kept clean.,1
+L00380,PR012,Tampa,A,1BR,701.0,48.3,2021-12-26,1517.0,1673.0,10.24,2,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00381,PR012,Tampa,A,1BR,681.0,2.2,2025-10-25,1508.0,1585.0,5.1,0,0,1.5,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00382,PR012,Tampa,A,3BR,1282.0,39.6,2022-09-16,2540.0,2602.0,2.45,0,2,2.33,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00383,PR012,Tampa,A,2BR,1073.0,2.8,2025-10-08,2339.0,2409.0,3.0,0,1,2.72,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L00384,PR012,Tampa,A,1BR,793.0,11.7,2025-01-10,1636.0,1599.0,-2.28,0,3,2.01,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00385,PR012,Tampa,A,3BR,1340.0,6.6,2025-06-14,2962.0,3179.0,7.32,0,5,2.35,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00386,PR012,Tampa,A,2BR,1038.0,46.9,2022-02-06,2429.0,2403.0,-1.07,2,2,1.38,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00387,PR012,Tampa,A,2BR,1088.0,4.5,2025-08-18,2380.0,2431.0,2.14,0,1,1.17,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00388,PR012,Tampa,A,Studio,517.0,7.1,2025-05-29,1052.0,1129.0,7.35,0,2,4.37,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00389,PR012,Tampa,A,1BR,698.0,56.9,2021-04-07,1558.0,1601.0,2.81,1,1,2.5,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00390,PR012,Tampa,A,2BR,1006.0,10.8,2025-02-08,2214.0,2249.0,1.54,0,1,0.5,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00391,PR012,Tampa,A,2BR,1007.0,9.8,2025-03-10,2433.0,2385.0,-1.99,2,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00392,PR012,Tampa,A,2BR,1214.0,4.2,2025-08-28,2650.0,2915.0,10.03,0,3,1.21,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00393,PR012,Tampa,A,1BR,782.0,16.9,2024-08-05,1623.0,1620.0,-0.17,0,2,2.87,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00394,PR012,Tampa,A,Studio,505.0,1.0,2025-12-02,1135.0,1147.0,1.07,0,1,1.72,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00395,PR012,Tampa,A,2BR,1140.0,1.0,2025-12-02,2432.0,2311.0,-4.96,1,0,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00396,PR012,Tampa,A,1BR,729.0,12.8,2024-12-08,1574.0,1636.0,3.9,0,1,1.5,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00397,PR012,Tampa,A,1BR,790.0,5.9,2025-07-08,1605.0,1642.0,2.33,0,1,1.67,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00398,PR013,Phoenix,A,1BR,767.0,31.2,2023-05-30,1750.0,1670.0,-4.54,0,5,2.01,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00399,PR013,Phoenix,A,2BR,1009.0,18.5,2024-06-19,1949.0,2072.0,6.31,2,1,1.75,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00400,PR013,Phoenix,A,1BR,720.0,9.9,2025-03-05,1584.0,1696.0,7.08,2,1,0.81,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00401,PR013,Phoenix,A,3BR,1332.0,67.3,2020-05-26,2790.0,2870.0,2.9,1,1,4.02,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00402,PR013,Phoenix,A,1BR,695.0,4.3,2025-08-23,1618.0,1711.0,5.77,0,0,2.81,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00403,PR013,Phoenix,A,Studio,526.0,25.1,2023-12-01,1101.0,1129.0,2.61,1,2,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00404,PR013,Phoenix,A,1BR,803.0,7.8,2025-05-10,1595.0,1688.0,5.83,0,2,0.39,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00405,PR013,Phoenix,A,2BR,1148.0,14.6,2024-10-13,2474.0,2696.0,8.96,0,3,0.2,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00406,PR013,Phoenix,A,1BR,778.0,18.2,2024-06-28,1589.0,1590.0,0.04,0,1,1.82,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00407,PR013,Phoenix,A,1BR,777.0,14.1,2024-10-31,1765.0,1895.0,7.37,0,2,1.75,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00408,PR013,Phoenix,A,3BR,1500.0,2.1,2025-10-29,3082.0,3466.0,12.46,0,3,1.74,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00409,PR013,Phoenix,A,3BR,1407.0,8.2,2025-04-27,3036.0,3197.0,5.32,2,0,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00410,PR013,Phoenix,A,1BR,785.0,11.5,2025-01-16,1852.0,1880.0,1.48,1,1,0.54,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00411,PR013,Phoenix,A,1BR,696.0,26.5,2023-10-20,1603.0,1848.0,15.32,2,2,1.03,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00412,PR013,Phoenix,A,2BR,1152.0,8.2,2025-04-27,2560.0,2673.0,4.44,0,2,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00413,PR013,Phoenix,A,3BR,1377.0,35.1,2023-01-29,2951.0,3104.0,5.16,2,1,0.3,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00414,PR013,Phoenix,A,2BR,1076.0,8.1,2025-04-29,2377.0,2502.0,5.26,0,4,2.53,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00415,PR013,Phoenix,A,2BR,1062.0,11.1,2025-01-28,2389.0,2539.0,6.24,2,0,0.2,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00416,PR013,Phoenix,A,1BR,729.0,22.3,2024-02-24,1482.0,1516.0,2.31,0,2,2.63,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00417,PR013,Phoenix,A,2BR,1148.0,12.2,2024-12-25,2606.0,2735.0,4.95,0,4,2.27,Maintenance,negative,Maintenance request took 2 days to get resolved.,0
+L00418,PR013,Phoenix,A,2BR,1078.0,45.1,2022-03-31,2176.0,2366.0,8.76,2,2,0.88,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00419,PR013,Phoenix,A,1BR,731.0,15.1,2024-09-29,1633.0,1668.0,2.13,1,2,0.53,Amenities,negative,Pool area feels outdated and underused.,1
+L00420,PR013,Phoenix,A,Studio,500.0,10.4,2025-02-21,1008.0,1027.0,1.9,1,2,2.01,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00421,PR013,Phoenix,A,3BR,1362.0,1.0,2025-12-02,3287.0,3371.0,2.54,1,1,0.39,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00422,PR013,Phoenix,A,2BR,1061.0,7.5,2025-05-19,2396.0,2360.0,-1.49,2,1,0.44,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00423,PR013,Phoenix,A,1BR,728.0,5.0,2025-08-03,1426.0,1434.0,0.59,2,2,1.15,Cleanliness,negative,Common areas are not kept clean.,1
+L00424,PR013,Phoenix,A,2BR,1005.0,19.3,2024-05-25,2171.0,2180.0,0.38,2,1,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00425,PR013,Phoenix,A,2BR,1132.0,3.3,2025-09-24,2368.0,2463.0,4.0,0,2,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00426,PR013,Phoenix,A,1BR,745.0,3.2,2025-09-26,1547.0,1674.0,8.18,0,0,0.86,Lighting,negative,Parking lot lighting is poor at night.,1
+L00427,PR013,Phoenix,A,2BR,1021.0,2.9,2025-10-04,2226.0,2476.0,11.27,1,0,1.65,Amenities,negative,Gym equipment has been broken for months.,0
+L00428,PR013,Phoenix,A,2BR,1065.0,1.9,2025-11-05,2173.0,2266.0,4.29,0,2,0.37,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00429,PR013,Phoenix,A,3BR,1387.0,5.2,2025-07-27,3133.0,3330.0,6.28,1,3,0.98,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00430,PR013,Phoenix,A,Studio,521.0,30.4,2023-06-23,1172.0,1234.0,5.22,0,0,0.2,Cleanliness,negative,Common areas are not kept clean.,1
+L00431,PR013,Phoenix,A,Studio,525.0,20.9,2024-04-07,1158.0,1083.0,-5.0,2,3,2.11,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00432,PR013,Phoenix,A,1BR,752.0,18.6,2024-06-15,1622.0,1593.0,-1.74,1,2,1.4,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00433,PR013,Phoenix,A,2BR,1011.0,22.3,2024-02-22,2270.0,2448.0,7.81,2,3,1.48,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00434,PR013,Phoenix,A,2BR,1131.0,4.4,2025-08-21,2559.0,2772.0,8.29,1,1,1.66,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00435,PR014,Phoenix,C,2BR,1152.0,11.7,2025-01-11,880.0,907.0,3.06,0,1,1.74,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00436,PR014,Phoenix,C,1BR,714.0,13.4,2024-11-21,688.0,712.0,3.48,1,2,3.18,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00437,PR014,Phoenix,C,2BR,1102.0,1.0,2025-12-02,1011.0,1040.0,2.93,0,3,2.7,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00438,PR014,Phoenix,C,1BR,744.0,7.2,2025-05-27,675.0,735.0,8.85,2,2,1.96,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00439,PR014,Phoenix,C,1BR,774.0,14.7,2024-10-13,688.0,730.0,6.09,2,2,3.13,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00440,PR014,Phoenix,C,1BR,748.0,16.8,2024-08-10,603.0,634.0,5.1,0,0,1.88,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00441,PR014,Phoenix,C,2BR,1002.0,14.2,2024-10-26,856.0,836.0,-2.35,1,0,1.12,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00442,PR014,Phoenix,C,1BR,753.0,5.4,2025-07-21,696.0,711.0,2.11,0,0,2.21,Lighting,negative,Parking lot lighting is poor at night.,1
+L00443,PR014,Phoenix,C,2BR,1137.0,1.4,2025-11-21,937.0,1017.0,8.49,0,3,0.82,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00444,PR014,Phoenix,C,1BR,749.0,7.8,2025-05-09,559.0,582.0,4.19,2,3,0.66,Cleanliness,negative,Common areas are not kept clean.,0
+L00445,PR014,Phoenix,C,1BR,779.0,1.9,2025-11-04,676.0,726.0,7.3,0,2,2.43,Maintenance,negative,Maintenance request took 2 days to get resolved.,1
+L00446,PR014,Phoenix,C,1BR,711.0,41.3,2022-07-26,620.0,700.0,12.83,0,0,2.51,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00447,PR014,Phoenix,C,3BR,1348.0,9.0,2025-04-02,1196.0,1306.0,9.19,0,3,0.38,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00448,PR014,Phoenix,C,3BR,1308.0,5.3,2025-07-23,1201.0,1255.0,4.47,0,1,0.42,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00449,PR014,Phoenix,C,1BR,778.0,20.4,2024-04-23,711.0,721.0,1.45,2,1,1.21,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00450,PR014,Phoenix,C,1BR,751.0,9.6,2025-03-14,671.0,612.0,-5.0,1,2,0.94,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00451,PR014,Phoenix,C,1BR,776.0,5.2,2025-07-28,732.0,755.0,3.16,0,3,2.13,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00452,PR014,Phoenix,C,1BR,791.0,23.4,2024-01-21,632.0,647.0,2.37,1,2,1.7,Amenities,negative,Gym equipment has been broken for months.,1
+L00453,PR014,Phoenix,C,1BR,776.0,28.3,2023-08-26,703.0,745.0,5.95,1,2,2.82,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00454,PR014,Phoenix,C,3BR,1368.0,15.6,2024-09-13,1249.0,1290.0,3.23,0,3,1.97,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00455,PR014,Phoenix,C,3BR,1283.0,1.0,2025-12-02,1045.0,1070.0,2.4,2,6,1.01,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00456,PR014,Phoenix,C,1BR,750.0,11.7,2025-01-11,600.0,571.0,-4.9,0,2,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00457,PR014,Phoenix,C,1BR,730.0,20.2,2024-04-28,614.0,609.0,-0.7,1,0,1.83,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00458,PR014,Phoenix,C,2BR,1061.0,2.1,2025-10-31,897.0,954.0,6.38,1,3,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00459,PR014,Phoenix,C,2BR,1060.0,3.6,2025-09-13,975.0,1097.0,12.58,2,0,1.0,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00460,PR014,Phoenix,C,Studio,495.0,30.0,2023-07-05,419.0,434.0,3.51,2,1,0.93,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00461,PR014,Phoenix,C,1BR,677.0,1.0,2025-12-02,565.0,597.0,5.64,0,0,1.15,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00462,PR014,Phoenix,C,1BR,725.0,19.6,2024-05-17,615.0,668.0,8.76,2,5,0.34,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00463,PR014,Phoenix,C,1BR,757.0,9.0,2025-04-03,711.0,711.0,-0.05,1,0,0.93,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00464,PR014,Phoenix,C,1BR,699.0,8.3,2025-04-25,616.0,652.0,5.83,0,7,2.8,Maintenance,negative,Maintenance request took 2 days to get resolved.,0
+L00465,PR014,Phoenix,C,Studio,520.0,1.0,2025-12-02,453.0,454.0,0.3,0,2,2.8,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00466,PR014,Phoenix,C,2BR,1183.0,24.0,2024-01-04,1034.0,1120.0,8.32,0,4,3.19,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00467,PR014,Phoenix,C,1BR,788.0,6.2,2025-06-26,748.0,783.0,4.76,0,4,1.66,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00468,PR014,Phoenix,C,Studio,563.0,10.9,2025-02-04,473.0,499.0,5.49,0,1,1.93,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00469,PR014,Phoenix,C,1BR,765.0,15.8,2024-09-07,726.0,727.0,0.09,0,2,2.81,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00470,PR014,Phoenix,C,2BR,1143.0,17.0,2024-08-03,1019.0,1095.0,7.54,0,1,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00471,PR014,Phoenix,C,2BR,1041.0,43.7,2022-05-13,907.0,1038.0,14.42,0,2,2.46,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00472,PR014,Phoenix,C,1BR,726.0,10.6,2025-02-13,735.0,727.0,-1.04,0,0,2.96,Amenities,negative,Gym equipment has been broken for months.,1
+L00473,PR014,Phoenix,C,1BR,647.0,7.1,2025-05-29,534.0,546.0,2.3,0,3,0.77,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00474,PR014,Phoenix,C,3BR,1430.0,43.0,2022-06-04,1232.0,1295.0,5.16,0,2,3.04,Amenities,negative,Gym equipment has been broken for months.,0
+L00475,PR014,Phoenix,C,1BR,808.0,14.4,2024-10-21,658.0,710.0,7.93,0,2,3.71,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00476,PR014,Phoenix,C,1BR,729.0,5.0,2025-08-04,678.0,687.0,1.2,0,3,2.43,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00477,PR014,Phoenix,C,1BR,740.0,1.9,2025-11-05,718.0,645.0,-5.0,2,0,2.25,Cleanliness,negative,Common areas are not kept clean.,1
+L00478,PR014,Phoenix,C,1BR,722.0,25.9,2023-11-07,699.0,774.0,10.8,0,2,0.53,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00479,PR014,Phoenix,C,1BR,764.0,6.3,2025-06-24,722.0,778.0,7.8,1,0,2.72,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00480,PR014,Phoenix,C,3BR,1426.0,15.1,2024-09-29,1240.0,1181.0,-4.71,0,0,0.63,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00481,PR014,Phoenix,C,2BR,986.0,8.9,2025-04-06,849.0,857.0,0.96,2,4,2.02,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00482,PR014,Phoenix,C,1BR,765.0,3.1,2025-09-29,606.0,678.0,11.84,0,1,2.13,Lighting,negative,Common area lighting could be improved.,1
+L00483,PR014,Phoenix,C,3BR,1331.0,12.9,2024-12-06,1315.0,1462.0,11.24,0,2,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00484,PR014,Phoenix,C,Studio,523.0,1.0,2025-12-02,473.0,514.0,8.69,0,0,2.06,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00485,PR014,Phoenix,C,1BR,767.0,7.5,2025-05-20,655.0,676.0,3.12,0,0,4.28,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00486,PR015,Nashville,C,1BR,689.0,23.4,2024-01-21,743.0,775.0,4.25,1,1,2.62,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00487,PR015,Nashville,C,1BR,720.0,23.1,2024-01-30,708.0,771.0,8.98,1,2,2.3,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00488,PR015,Nashville,C,Studio,531.0,2.9,2025-10-04,619.0,701.0,13.39,0,2,1.59,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00489,PR015,Nashville,C,2BR,1053.0,1.6,2025-11-13,1142.0,1228.0,7.6,2,3,4.42,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00490,PR015,Nashville,C,Studio,524.0,17.9,2024-07-07,496.0,519.0,4.52,2,3,1.05,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00491,PR015,Nashville,C,1BR,704.0,2.4,2025-10-21,746.0,794.0,6.31,2,5,1.19,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00492,PR015,Nashville,C,2BR,1061.0,26.6,2023-10-17,1152.0,1181.0,2.53,0,2,2.53,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00493,PR015,Nashville,C,2BR,1089.0,18.1,2024-06-29,1077.0,1122.0,4.18,0,2,1.94,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00494,PR015,Nashville,C,2BR,1029.0,25.8,2023-11-09,1125.0,1178.0,4.72,0,1,1.31,Amenities,negative,Pool area feels outdated and underused.,0
+L00495,PR015,Nashville,C,3BR,1464.0,5.0,2025-08-03,1708.0,1709.0,0.07,2,2,2.7,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00496,PR015,Nashville,C,Studio,503.0,5.3,2025-07-23,513.0,534.0,4.11,1,4,1.7,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00497,PR015,Nashville,C,1BR,802.0,15.6,2024-09-15,872.0,923.0,5.84,0,1,1.69,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00498,PR015,Nashville,C,2BR,1071.0,1.0,2025-12-02,1149.0,1225.0,6.59,1,3,1.97,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00499,PR015,Nashville,C,2BR,995.0,18.2,2024-06-29,1116.0,1185.0,6.19,0,0,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00500,PR015,Nashville,C,3BR,1273.0,25.3,2023-11-25,1341.0,1305.0,-2.7,0,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00501,PR015,Nashville,C,Studio,525.0,7.5,2025-05-18,520.0,573.0,10.15,0,3,2.82,Cleanliness,negative,Common areas are not kept clean.,1
+L00502,PR015,Nashville,C,1BR,789.0,20.3,2024-04-25,881.0,967.0,9.73,1,1,1.06,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00503,PR015,Nashville,C,1BR,816.0,2.7,2025-10-12,813.0,842.0,3.52,0,3,1.6,Amenities,negative,Gym equipment has been broken for months.,1
+L00504,PR015,Nashville,C,2BR,1087.0,5.4,2025-07-20,1277.0,1357.0,6.28,0,1,3.35,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00505,PR015,Nashville,C,2BR,1016.0,51.3,2021-09-26,1114.0,1146.0,2.92,1,2,1.65,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00506,PR015,Nashville,C,Studio,527.0,60.1,2021-01-01,539.0,581.0,7.76,0,1,1.53,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00507,PR015,Nashville,C,1BR,719.0,10.1,2025-03-02,813.0,812.0,-0.07,1,4,2.63,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00508,PR015,Nashville,C,2BR,1101.0,38.1,2022-10-31,1167.0,1292.0,10.71,0,3,1.14,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00509,PR015,Nashville,C,2BR,1029.0,10.4,2025-02-21,1076.0,1157.0,7.51,2,1,2.94,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00510,PR015,Nashville,C,Studio,466.0,4.8,2025-08-08,473.0,510.0,7.63,0,2,2.61,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00511,PR015,Nashville,C,2BR,1151.0,4.3,2025-08-22,1083.0,1120.0,3.47,0,0,3.57,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00512,PR015,Nashville,C,2BR,1068.0,37.1,2022-11-30,1173.0,1137.0,-3.06,2,3,1.05,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00513,PR016,Denver,C,1BR,725.0,11.2,2025-01-25,857.0,836.0,-2.42,0,0,1.87,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00514,PR016,Denver,C,2BR,1031.0,14.0,2024-11-02,1224.0,1363.0,11.38,1,0,1.07,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00515,PR016,Denver,C,1BR,780.0,4.2,2025-08-28,999.0,1064.0,6.46,0,1,1.45,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00516,PR016,Denver,C,3BR,1358.0,41.6,2022-07-18,1754.0,1804.0,2.85,0,1,2.64,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00517,PR016,Denver,C,3BR,1263.0,2.6,2025-10-14,1500.0,1475.0,-1.69,0,3,0.86,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00518,PR016,Denver,C,1BR,783.0,47.2,2022-01-28,1002.0,1000.0,-0.11,0,1,1.98,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00519,PR016,Denver,C,Studio,483.0,1.0,2025-12-02,592.0,654.0,10.51,0,1,2.23,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00520,PR016,Denver,C,2BR,1098.0,9.2,2025-03-28,1322.0,1384.0,4.69,2,2,0.7,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00521,PR016,Denver,C,1BR,719.0,5.7,2025-07-13,910.0,922.0,1.25,0,7,0.58,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00522,PR016,Denver,C,Studio,510.0,8.3,2025-04-23,615.0,656.0,6.55,0,1,1.12,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00523,PR016,Denver,C,2BR,1107.0,11.8,2025-01-07,1493.0,1492.0,-0.07,0,5,1.15,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00524,PR016,Denver,C,Studio,534.0,8.0,2025-05-03,585.0,652.0,11.5,0,1,0.27,Lighting,negative,Common area lighting could be improved.,1
+L00525,PR016,Denver,C,2BR,1152.0,7.5,2025-05-18,1340.0,1484.0,10.76,2,0,0.7,Amenities,negative,Gym equipment has been broken for months.,1
+L00526,PR016,Denver,C,1BR,747.0,18.5,2024-06-19,889.0,904.0,1.67,2,3,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00527,PR016,Denver,C,1BR,761.0,16.2,2024-08-27,938.0,946.0,0.86,0,0,1.01,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00528,PR016,Denver,C,1BR,734.0,25.1,2023-12-01,947.0,861.0,-5.0,1,1,2.24,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00529,PR016,Denver,C,3BR,1362.0,4.0,2025-09-01,1632.0,1577.0,-3.41,0,1,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00530,PR016,Denver,C,2BR,1104.0,13.2,2024-11-27,1211.0,1179.0,-2.7,0,1,0.88,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00531,PR016,Denver,C,2BR,1075.0,12.3,2024-12-23,1355.0,1418.0,4.68,2,1,3.79,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00532,PR016,Denver,C,1BR,682.0,6.5,2025-06-19,856.0,876.0,2.37,2,0,1.32,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00533,PR016,Denver,C,1BR,762.0,9.3,2025-03-24,808.0,786.0,-2.73,0,0,2.7,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00534,PR016,Denver,C,1BR,764.0,5.3,2025-07-25,916.0,940.0,2.59,1,2,0.33,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00535,PR016,Denver,C,1BR,724.0,2.1,2025-10-28,786.0,838.0,6.53,0,2,1.79,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00536,PR017,Charlotte,B,2BR,1103.0,25.0,2023-12-03,1581.0,1642.0,3.84,1,0,1.08,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00537,PR017,Charlotte,B,2BR,1068.0,26.6,2023-10-15,1557.0,1543.0,-0.92,0,0,0.2,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00538,PR017,Charlotte,B,1BR,658.0,7.7,2025-05-12,900.0,949.0,5.43,0,0,0.35,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00539,PR017,Charlotte,B,1BR,743.0,1.0,2025-12-02,999.0,1134.0,13.47,0,0,0.2,Lighting,negative,Common area lighting could be improved.,0
+L00540,PR017,Charlotte,B,1BR,715.0,1.0,2025-12-02,976.0,1092.0,11.91,2,1,1.17,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00541,PR017,Charlotte,B,1BR,747.0,10.4,2025-02-20,977.0,947.0,-3.03,0,2,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00542,PR017,Charlotte,B,1BR,749.0,5.9,2025-07-06,1053.0,1019.0,-3.22,2,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00543,PR017,Charlotte,B,1BR,764.0,82.0,2019-03-08,944.0,901.0,-4.5,0,0,0.92,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00544,PR017,Charlotte,B,1BR,730.0,20.7,2024-04-12,929.0,913.0,-1.68,1,1,0.2,Amenities,negative,Gym equipment has been broken for months.,1
+L00545,PR017,Charlotte,B,1BR,735.0,20.1,2024-05-02,952.0,1002.0,5.26,2,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00546,PR017,Charlotte,B,2BR,1118.0,43.5,2022-05-20,1570.0,1589.0,1.22,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00547,PR017,Charlotte,B,Studio,499.0,30.6,2023-06-16,666.0,665.0,-0.19,1,2,0.2,Amenities,negative,Pool area feels outdated and underused.,0
+L00548,PR017,Charlotte,B,2BR,981.0,5.4,2025-07-22,1443.0,1575.0,9.2,1,0,0.66,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00549,PR017,Charlotte,B,2BR,1088.0,2.5,2025-10-16,1552.0,1655.0,6.65,0,2,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00550,PR017,Charlotte,B,2BR,1138.0,19.2,2024-05-28,1473.0,1406.0,-4.52,0,0,0.2,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00551,PR017,Charlotte,B,2BR,1117.0,6.7,2025-06-13,1577.0,1718.0,8.91,0,0,0.48,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00552,PR017,Charlotte,B,1BR,757.0,9.0,2025-04-04,1004.0,1069.0,6.53,0,1,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00553,PR017,Charlotte,B,1BR,797.0,13.9,2024-11-04,1115.0,1189.0,6.64,0,0,2.47,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00554,PR017,Charlotte,B,3BR,1423.0,33.4,2023-03-24,2034.0,2058.0,1.15,1,1,2.31,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00555,PR017,Charlotte,B,2BR,1062.0,7.6,2025-05-15,1541.0,1588.0,3.06,0,1,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00556,PR017,Charlotte,B,3BR,1367.0,21.4,2024-03-22,1881.0,1771.0,-5.0,0,1,1.04,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00557,PR017,Charlotte,B,2BR,1096.0,4.4,2025-08-22,1633.0,1769.0,8.33,0,1,1.23,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00558,PR017,Charlotte,B,1BR,747.0,16.8,2024-08-10,1042.0,1032.0,-0.99,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00559,PR017,Charlotte,B,Studio,549.0,1.0,2025-12-02,753.0,751.0,-0.35,0,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00560,PR017,Charlotte,B,2BR,1072.0,28.7,2023-08-12,1431.0,1425.0,-0.42,2,0,0.47,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00561,PR017,Charlotte,B,1BR,731.0,1.0,2025-12-02,957.0,1081.0,13.0,0,0,0.31,Lighting,negative,Common area lighting could be improved.,1
+L00562,PR017,Charlotte,B,1BR,653.0,17.5,2024-07-20,910.0,916.0,0.66,0,2,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00563,PR017,Charlotte,B,2BR,1037.0,1.0,2025-12-02,1419.0,1542.0,8.71,1,1,0.92,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00564,PR017,Charlotte,B,1BR,701.0,4.3,2025-08-23,968.0,1005.0,3.88,0,1,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00565,PR017,Charlotte,B,1BR,748.0,9.6,2025-03-15,1047.0,1046.0,-0.15,1,0,0.2,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00566,PR017,Charlotte,B,2BR,1012.0,7.6,2025-05-15,1398.0,1383.0,-1.05,2,0,0.59,Amenities,negative,Gym equipment has been broken for months.,0
+L00567,PR017,Charlotte,B,2BR,1113.0,3.0,2025-10-03,1696.0,1711.0,0.86,0,0,0.87,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00568,PR017,Charlotte,B,1BR,792.0,5.7,2025-07-13,1042.0,1080.0,3.63,2,0,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00569,PR018,Nashville,A,1BR,732.0,4.8,2025-08-07,1243.0,1317.0,5.92,1,4,2.8,Lighting,negative,Common area lighting could be improved.,0
+L00570,PR018,Nashville,A,1BR,672.0,22.4,2024-02-20,1220.0,1315.0,7.82,1,2,1.3,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00571,PR018,Nashville,A,1BR,775.0,21.4,2024-03-22,1257.0,1223.0,-2.67,1,3,4.09,Amenities,negative,Pool area feels outdated and underused.,1
+L00572,PR018,Nashville,A,2BR,976.0,6.1,2025-07-01,1718.0,1759.0,2.42,0,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00573,PR018,Nashville,A,1BR,699.0,5.0,2025-08-03,1286.0,1433.0,11.46,0,0,1.99,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00574,PR018,Nashville,A,3BR,1323.0,11.5,2025-01-17,2446.0,2624.0,7.3,2,1,0.67,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00575,PR018,Nashville,A,2BR,1014.0,1.0,2025-12-02,1876.0,1993.0,6.23,0,0,1.14,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L00576,PR018,Nashville,A,1BR,762.0,1.2,2025-11-26,1430.0,1558.0,8.95,2,2,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00577,PR018,Nashville,A,1BR,739.0,1.9,2025-11-05,1287.0,1455.0,13.02,2,2,2.25,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00578,PR018,Nashville,A,1BR,779.0,2.9,2025-10-06,1437.0,1496.0,4.09,1,3,1.32,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00579,PR018,Nashville,A,1BR,690.0,10.0,2025-03-02,1373.0,1400.0,1.96,0,0,2.45,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00580,PR018,Nashville,A,2BR,1044.0,68.0,2020-05-05,1817.0,1979.0,8.94,1,4,1.54,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00581,PR018,Nashville,A,2BR,1080.0,14.8,2024-10-09,2094.0,2158.0,3.06,0,1,0.2,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00582,PR018,Nashville,A,Studio,521.0,1.0,2025-12-02,982.0,976.0,-0.64,2,1,2.46,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00583,PR018,Nashville,A,2BR,1117.0,10.4,2025-02-18,1968.0,1994.0,1.3,0,1,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00584,PR018,Nashville,A,Studio,496.0,9.6,2025-03-15,878.0,927.0,5.56,2,0,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00585,PR018,Nashville,A,2BR,1055.0,2.2,2025-10-27,1901.0,1935.0,1.75,2,1,0.45,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00586,PR018,Nashville,A,2BR,1107.0,35.4,2023-01-21,2080.0,2124.0,2.13,1,4,0.46,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00587,PR018,Nashville,A,1BR,668.0,8.1,2025-04-29,1224.0,1210.0,-1.14,0,2,2.76,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00588,PR019,Nashville,B,1BR,773.0,31.3,2023-05-26,1109.0,1229.0,10.86,0,1,3.4,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00589,PR019,Nashville,B,2BR,1020.0,17.8,2024-07-10,1521.0,1708.0,12.24,0,3,1.77,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00590,PR019,Nashville,B,2BR,1038.0,12.3,2024-12-23,1448.0,1669.0,15.25,0,3,3.61,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00591,PR019,Nashville,B,1BR,714.0,16.4,2024-08-22,1026.0,1126.0,9.74,1,3,1.12,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00592,PR019,Nashville,B,Studio,524.0,39.2,2022-09-28,768.0,784.0,2.02,0,3,1.6,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00593,PR019,Nashville,B,2BR,1069.0,4.0,2025-09-01,1430.0,1458.0,1.94,0,1,2.85,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00594,PR019,Nashville,B,2BR,1107.0,10.7,2025-02-10,1610.0,1636.0,1.66,2,2,2.8,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00595,PR019,Nashville,B,1BR,749.0,16.4,2024-08-22,899.0,1024.0,13.93,0,2,2.68,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00596,PR019,Nashville,B,2BR,998.0,15.9,2024-09-05,1376.0,1423.0,3.42,0,1,2.21,Cleanliness,negative,Common areas are not kept clean.,1
+L00597,PR019,Nashville,B,2BR,1095.0,4.1,2025-08-31,1617.0,1784.0,10.35,0,1,1.06,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00598,PR019,Nashville,B,1BR,684.0,12.4,2024-12-21,1044.0,1148.0,9.96,0,2,1.43,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00599,PR019,Nashville,B,1BR,717.0,22.2,2024-02-25,1054.0,1106.0,4.95,1,2,3.25,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00600,PR019,Nashville,B,1BR,736.0,9.0,2025-04-02,965.0,934.0,-3.26,2,3,2.9,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00601,PR019,Nashville,B,2BR,1057.0,22.1,2024-03-02,1605.0,1661.0,3.53,0,5,0.79,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00602,PR019,Nashville,B,3BR,1239.0,6.2,2025-06-26,1650.0,1729.0,4.73,0,2,2.99,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00603,PR020,Phoenix,B,1BR,741.0,14.0,2024-11-01,1266.0,1371.0,8.27,1,1,0.47,Amenities,negative,Pool area feels outdated and underused.,0
+L00604,PR020,Phoenix,B,1BR,667.0,27.8,2023-09-09,1060.0,1014.0,-4.37,0,1,0.31,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00605,PR020,Phoenix,B,2BR,1034.0,1.2,2025-11-27,1632.0,1601.0,-1.89,2,0,0.49,Lighting,negative,Parking lot lighting is poor at night.,0
+L00606,PR020,Phoenix,B,2BR,1061.0,21.1,2024-04-01,1761.0,1977.0,12.26,0,0,0.86,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00607,PR020,Phoenix,B,1BR,757.0,9.5,2025-03-18,1264.0,1302.0,2.98,0,0,1.52,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00608,PR020,Phoenix,B,1BR,797.0,11.6,2025-01-13,1309.0,1317.0,0.6,0,2,0.71,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00609,PR020,Phoenix,B,1BR,826.0,14.9,2024-10-07,1416.0,1550.0,9.51,2,0,0.2,Amenities,negative,Pool area feels outdated and underused.,0
+L00610,PR020,Phoenix,B,2BR,1095.0,35.8,2023-01-08,1795.0,1976.0,10.09,0,0,0.99,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00611,PR020,Phoenix,B,1BR,758.0,1.0,2025-12-02,1308.0,1332.0,1.83,1,0,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00612,PR020,Phoenix,B,2BR,1054.0,1.0,2025-12-02,1735.0,1829.0,5.39,0,0,2.51,Amenities,negative,Pool area feels outdated and underused.,0
+L00613,PR020,Phoenix,B,1BR,686.0,2.7,2025-10-10,1210.0,1267.0,4.68,2,1,0.71,Amenities,negative,Pool area feels outdated and underused.,0
+L00614,PR020,Phoenix,B,2BR,1047.0,60.2,2020-12-28,1747.0,1570.0,-5.0,0,0,0.3,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00615,PR020,Phoenix,B,1BR,742.0,17.6,2024-07-16,1356.0,1316.0,-2.98,0,1,2.95,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00616,PR020,Phoenix,B,2BR,1133.0,13.4,2024-11-22,2001.0,2175.0,8.71,1,2,1.71,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00617,PR020,Phoenix,B,1BR,769.0,1.0,2025-12-02,1323.0,1321.0,-0.16,0,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00618,PR020,Phoenix,B,2BR,1092.0,29.6,2023-07-17,1833.0,1955.0,6.65,2,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00619,PR020,Phoenix,B,1BR,728.0,23.5,2024-01-19,1125.0,1185.0,5.32,1,1,1.45,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00620,PR020,Phoenix,B,Studio,468.0,15.3,2024-09-23,864.0,951.0,10.08,0,1,1.01,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00621,PR020,Phoenix,B,2BR,976.0,5.8,2025-07-09,1592.0,1547.0,-2.82,2,3,1.86,Cleanliness,negative,Common areas are not kept clean.,1
+L00622,PR020,Phoenix,B,2BR,990.0,1.0,2025-12-01,1692.0,1793.0,5.97,0,1,0.31,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00623,PR020,Phoenix,B,Studio,512.0,12.1,2024-12-28,889.0,922.0,3.67,1,2,1.67,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00624,PR020,Phoenix,B,Studio,546.0,17.8,2024-07-09,918.0,918.0,0.05,2,2,0.2,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00625,PR020,Phoenix,B,2BR,1132.0,1.4,2025-11-20,2081.0,2082.0,0.02,1,0,0.82,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00626,PR020,Phoenix,B,2BR,1123.0,14.1,2024-10-31,1769.0,1860.0,5.14,1,1,0.35,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00627,PR020,Phoenix,B,1BR,731.0,4.7,2025-08-11,1371.0,1469.0,7.15,1,0,0.52,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00628,PR020,Phoenix,B,2BR,1142.0,20.2,2024-04-27,2019.0,2106.0,4.32,0,1,0.87,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00629,PR020,Phoenix,B,1BR,715.0,10.9,2025-02-05,1198.0,1251.0,4.47,2,1,2.11,Lighting,negative,Common area lighting could be improved.,1
+L00630,PR021,Austin,A,2BR,1095.0,33.1,2023-04-01,1945.0,2025.0,4.14,0,2,2.08,Lighting,negative,Common area lighting could be improved.,1
+L00631,PR021,Austin,A,2BR,1075.0,1.0,2025-12-02,2119.0,2209.0,4.25,2,2,0.84,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00632,PR021,Austin,A,1BR,759.0,7.9,2025-05-06,1360.0,1407.0,3.47,0,1,1.69,Lighting,negative,Parking lot lighting is poor at night.,1
+L00633,PR021,Austin,A,1BR,778.0,1.0,2025-12-02,1547.0,1703.0,10.09,0,4,1.52,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00634,PR021,Austin,A,1BR,680.0,1.4,2025-11-20,1292.0,1246.0,-3.57,1,0,0.68,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00635,PR021,Austin,A,2BR,1142.0,15.1,2024-10-01,2221.0,2137.0,-3.78,0,3,1.12,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00636,PR021,Austin,A,1BR,743.0,14.6,2024-10-15,1415.0,1405.0,-0.68,0,1,2.33,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00637,PR021,Austin,A,2BR,1168.0,1.0,2025-12-02,2218.0,2338.0,5.45,2,0,1.61,Lighting,negative,Common area lighting could be improved.,1
+L00638,PR021,Austin,A,1BR,733.0,1.0,2025-12-02,1366.0,1544.0,13.03,0,3,2.01,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00639,PR021,Austin,A,2BR,1043.0,1.1,2025-11-28,1836.0,1989.0,8.35,1,2,2.73,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00640,PR021,Austin,A,1BR,744.0,20.2,2024-04-29,1375.0,1471.0,6.96,2,0,1.9,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00641,PR021,Austin,A,2BR,1107.0,12.3,2024-12-24,2149.0,2226.0,3.6,2,4,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00642,PR021,Austin,A,1BR,740.0,1.0,2025-12-02,1420.0,1382.0,-2.66,0,1,1.73,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00643,PR021,Austin,A,2BR,1111.0,9.4,2025-03-23,2106.0,2244.0,6.57,1,1,0.84,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00644,PR021,Austin,A,1BR,735.0,17.4,2024-07-21,1183.0,1350.0,14.13,0,0,3.27,Maintenance,negative,Maintenance request took 3 days to get resolved.,0
+L00645,PR021,Austin,A,1BR,751.0,28.5,2023-08-21,1365.0,1403.0,2.8,0,1,1.86,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00646,PR021,Austin,A,1BR,834.0,38.1,2022-11-01,1505.0,1523.0,1.2,0,2,0.87,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00647,PR021,Austin,A,2BR,1099.0,5.6,2025-07-17,1889.0,1942.0,2.82,0,0,2.03,Amenities,negative,Gym equipment has been broken for months.,1
+L00648,PR021,Austin,A,2BR,1104.0,2.0,2025-10-31,2141.0,2291.0,7.0,0,0,1.55,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00649,PR021,Austin,A,1BR,695.0,3.8,2025-09-08,1123.0,1174.0,4.56,2,1,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00650,PR021,Austin,A,2BR,1153.0,21.0,2024-04-04,2228.0,2419.0,8.55,0,1,2.33,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00651,PR021,Austin,A,2BR,1138.0,49.8,2021-11-10,2260.0,2347.0,3.83,1,2,1.06,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00652,PR021,Austin,A,3BR,1302.0,8.8,2025-04-09,2365.0,2431.0,2.79,0,0,2.88,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00653,PR021,Austin,A,2BR,1137.0,5.1,2025-07-30,2082.0,2189.0,5.15,1,4,1.34,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00654,PR021,Austin,A,2BR,1098.0,7.8,2025-05-08,2137.0,2165.0,1.3,0,2,2.9,Lighting,negative,Parking lot lighting is poor at night.,1
+L00655,PR021,Austin,A,1BR,752.0,5.1,2025-07-31,1320.0,1487.0,12.7,2,1,1.89,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00656,PR021,Austin,A,2BR,1150.0,4.1,2025-08-28,2199.0,2378.0,8.12,1,0,2.44,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00657,PR021,Austin,A,2BR,1052.0,12.6,2024-12-14,1830.0,1802.0,-1.5,0,0,0.97,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00658,PR021,Austin,A,3BR,1301.0,1.0,2025-12-02,2219.0,2225.0,0.27,2,3,1.82,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00659,PR021,Austin,A,1BR,758.0,4.2,2025-08-27,1419.0,1516.0,6.83,2,2,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00660,PR021,Austin,A,Studio,534.0,15.2,2024-09-28,980.0,1029.0,4.92,1,4,1.34,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00661,PR021,Austin,A,Studio,545.0,1.0,2025-12-02,899.0,949.0,5.51,1,2,0.2,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00662,PR021,Austin,A,2BR,1072.0,1.2,2025-11-26,2140.0,2205.0,3.04,0,1,0.32,Amenities,negative,Gym equipment has been broken for months.,0
+L00663,PR021,Austin,A,3BR,1293.0,4.9,2025-08-07,2319.0,2465.0,6.28,0,2,0.57,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00664,PR021,Austin,A,Studio,586.0,29.4,2023-07-22,1111.0,1146.0,3.16,2,3,2.12,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00665,PR021,Austin,A,2BR,1021.0,20.3,2024-04-25,2060.0,2201.0,6.82,0,2,1.32,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00666,PR021,Austin,A,2BR,1083.0,1.0,2025-12-02,2022.0,2181.0,7.87,0,1,1.49,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00667,PR021,Austin,A,2BR,1122.0,9.8,2025-03-11,2222.0,2490.0,12.03,0,1,1.29,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00668,PR021,Austin,A,1BR,793.0,4.5,2025-08-18,1384.0,1404.0,1.43,2,2,2.54,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00669,PR021,Austin,A,2BR,1049.0,14.6,2024-10-13,2095.0,2178.0,3.94,0,0,1.47,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00670,PR021,Austin,A,Studio,471.0,17.9,2024-07-06,824.0,807.0,-2.09,0,1,1.71,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00671,PR021,Austin,A,2BR,1048.0,27.8,2023-09-09,1862.0,2107.0,13.13,1,1,0.89,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00672,PR021,Austin,A,1BR,782.0,9.0,2025-04-02,1314.0,1237.0,-5.0,2,3,2.61,Cleanliness,negative,Common areas are not kept clean.,1
+L00673,PR021,Austin,A,1BR,774.0,72.7,2019-12-14,1447.0,1627.0,12.41,0,2,2.69,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00674,PR021,Austin,A,2BR,1116.0,54.8,2021-06-12,2132.0,2227.0,4.47,0,2,1.43,Noise,negative,Thin walls make it hard to get any quiet.,0
+L00675,PR021,Austin,A,1BR,777.0,29.9,2023-07-06,1495.0,1586.0,6.09,2,2,0.88,Amenities,negative,Gym equipment has been broken for months.,1
+L00676,PR021,Austin,A,1BR,800.0,12.0,2025-01-02,1346.0,1389.0,3.17,2,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00677,PR021,Austin,A,2BR,1038.0,7.1,2025-05-31,1953.0,2034.0,4.16,1,2,0.59,Amenities,negative,Gym equipment has been broken for months.,1
+L00678,PR021,Austin,A,1BR,705.0,6.3,2025-06-23,1329.0,1422.0,6.94,2,3,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00679,PR021,Austin,A,1BR,764.0,1.0,2025-12-02,1457.0,1396.0,-4.18,1,1,0.55,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00680,PR021,Austin,A,1BR,711.0,4.0,2025-09-02,1247.0,1256.0,0.74,0,1,1.82,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00681,PR021,Austin,A,Studio,487.0,17.8,2024-07-11,762.0,760.0,-0.23,0,0,1.41,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00682,PR021,Austin,A,1BR,796.0,13.0,2024-12-04,1527.0,1622.0,6.24,0,1,3.79,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00683,PR021,Austin,A,Studio,527.0,34.7,2023-02-10,960.0,999.0,4.02,2,0,1.09,Cleanliness,negative,Common areas are not kept clean.,0
+L00684,PR022,Denver,B,1BR,766.0,1.0,2025-12-02,1285.0,1352.0,5.15,0,1,0.75,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00685,PR022,Denver,B,1BR,779.0,12.7,2024-12-11,1196.0,1250.0,4.51,2,1,1.36,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00686,PR022,Denver,B,2BR,1198.0,7.8,2025-05-09,1830.0,1932.0,5.53,0,1,1.01,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00687,PR022,Denver,B,1BR,786.0,5.6,2025-07-15,1222.0,1277.0,4.46,0,3,1.38,Amenities,negative,Pool area feels outdated and underused.,1
+L00688,PR022,Denver,B,1BR,748.0,1.3,2025-11-22,1151.0,1268.0,10.21,0,0,0.86,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00689,PR022,Denver,B,2BR,1032.0,11.6,2025-01-15,1579.0,1652.0,4.62,0,0,1.63,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00690,PR022,Denver,B,1BR,729.0,9.1,2025-03-30,1207.0,1167.0,-3.29,0,2,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00691,PR022,Denver,B,1BR,728.0,1.5,2025-11-15,1138.0,1277.0,12.15,2,0,1.35,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00692,PR022,Denver,B,2BR,1115.0,13.3,2024-11-24,1803.0,1908.0,5.85,0,1,0.3,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00693,PR022,Denver,B,1BR,760.0,18.7,2024-06-11,1250.0,1263.0,1.05,2,0,2.41,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00694,PR022,Denver,B,2BR,1009.0,20.4,2024-04-21,1600.0,1563.0,-2.27,0,0,0.29,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00695,PR022,Denver,B,2BR,1056.0,33.0,2023-04-04,1542.0,1634.0,5.98,0,0,2.24,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00696,PR022,Denver,B,2BR,1127.0,7.4,2025-05-22,1606.0,1660.0,3.41,0,1,1.23,Amenities,negative,Pool area feels outdated and underused.,1
+L00697,PR022,Denver,B,2BR,1099.0,42.8,2022-06-10,1719.0,1923.0,11.87,0,2,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00698,PR022,Denver,B,1BR,771.0,28.1,2023-09-01,1183.0,1210.0,2.27,0,1,0.37,Lighting,negative,Common area lighting could be improved.,1
+L00699,PR022,Denver,B,2BR,1101.0,4.9,2025-08-05,1715.0,1712.0,-0.19,0,1,2.09,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00700,PR022,Denver,B,2BR,1168.0,2.4,2025-10-20,1808.0,1962.0,8.48,2,1,2.03,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00701,PR022,Denver,B,1BR,759.0,8.0,2025-05-03,1359.0,1476.0,8.63,0,1,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00702,PR022,Denver,B,1BR,736.0,7.2,2025-05-28,1049.0,1100.0,4.84,1,2,2.8,Lighting,negative,Common area lighting could be improved.,0
+L00703,PR022,Denver,B,2BR,1031.0,12.0,2025-01-02,1407.0,1510.0,7.38,0,2,1.22,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00704,PR022,Denver,B,2BR,1093.0,12.3,2024-12-25,1729.0,1795.0,3.81,1,0,2.13,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00705,PR022,Denver,B,Studio,457.0,19.4,2024-05-22,692.0,727.0,5.17,0,3,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00706,PR022,Denver,B,2BR,1070.0,10.0,2025-03-04,1690.0,1856.0,9.82,1,3,0.79,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00707,PR022,Denver,B,Studio,515.0,1.6,2025-11-15,826.0,884.0,7.13,1,0,1.66,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00708,PR022,Denver,B,2BR,1006.0,27.4,2023-09-23,1680.0,1733.0,3.15,0,1,0.93,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00709,PR022,Denver,B,2BR,1030.0,5.2,2025-07-28,1452.0,1608.0,10.76,0,4,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00710,PR022,Denver,B,3BR,1405.0,49.7,2021-11-12,2104.0,1940.0,-5.0,0,1,1.05,Cleanliness,negative,Common areas are not kept clean.,1
+L00711,PR023,Dallas,A,2BR,1027.0,9.6,2025-03-17,2030.0,2203.0,8.53,2,2,1.59,Safety,negative,"Front gate has been broken, security is a concern.",0
+L00712,PR023,Dallas,A,Studio,502.0,13.2,2024-11-28,1035.0,1198.0,15.73,0,5,1.14,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00713,PR023,Dallas,A,2BR,1101.0,4.5,2025-08-18,2120.0,2057.0,-3.0,0,3,2.63,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00714,PR023,Dallas,A,Studio,541.0,17.7,2024-07-14,1186.0,1228.0,3.48,0,0,0.93,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00715,PR023,Dallas,A,2BR,1141.0,12.7,2024-12-13,2176.0,2134.0,-1.9,2,1,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00716,PR023,Dallas,A,1BR,809.0,5.5,2025-07-18,1729.0,1935.0,11.96,2,0,3.26,Cleanliness,negative,Common areas are not kept clean.,1
+L00717,PR023,Dallas,A,2BR,1076.0,1.0,2025-12-02,2177.0,2200.0,1.06,0,3,0.98,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00718,PR023,Dallas,A,1BR,795.0,19.4,2024-05-21,1614.0,1562.0,-3.22,0,1,1.36,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00719,PR023,Dallas,A,Studio,511.0,3.4,2025-09-21,901.0,966.0,7.19,0,5,2.94,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00720,PR023,Dallas,A,1BR,784.0,25.2,2023-11-28,1360.0,1534.0,12.72,2,2,2.18,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00721,PR023,Dallas,A,1BR,758.0,7.6,2025-05-14,1496.0,1605.0,7.32,1,4,3.22,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00722,PR023,Dallas,A,1BR,767.0,12.0,2024-12-31,1556.0,1634.0,5.02,1,1,2.95,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00723,PR023,Dallas,A,1BR,766.0,28.9,2023-08-07,1428.0,1515.0,6.05,0,5,1.65,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00724,PR023,Dallas,A,2BR,993.0,27.9,2023-09-07,1857.0,2063.0,11.07,0,6,3.13,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00725,PR023,Dallas,A,2BR,1019.0,6.5,2025-06-18,2107.0,2099.0,-0.37,0,3,2.28,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00726,PR023,Dallas,A,2BR,1086.0,3.3,2025-09-24,2244.0,2322.0,3.44,0,1,1.51,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00727,PR023,Dallas,A,2BR,989.0,20.9,2024-04-06,1961.0,1995.0,1.74,1,1,2.4,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00728,PR023,Dallas,A,1BR,781.0,7.9,2025-05-05,1635.0,1605.0,-1.84,0,1,0.8,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00729,PR023,Dallas,A,1BR,783.0,3.0,2025-10-03,1455.0,1489.0,2.36,1,0,2.94,Lighting,negative,Common area lighting could be improved.,1
+L00730,PR023,Dallas,A,1BR,762.0,32.9,2023-04-08,1492.0,1634.0,9.54,0,3,2.81,Amenities,negative,Gym equipment has been broken for months.,1
+L00731,PR023,Dallas,A,2BR,1019.0,3.1,2025-09-30,2241.0,2394.0,6.83,0,2,2.23,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00732,PR023,Dallas,A,1BR,802.0,1.0,2025-12-02,1610.0,1726.0,7.22,2,2,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00733,PR023,Dallas,A,Studio,573.0,1.0,2025-12-02,1155.0,1209.0,4.73,0,1,3.26,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00734,PR023,Dallas,A,2BR,1088.0,13.6,2024-11-13,2477.0,2641.0,6.62,1,2,2.55,Amenities,negative,Gym equipment has been broken for months.,1
+L00735,PR023,Dallas,A,1BR,769.0,15.2,2024-09-27,1409.0,1409.0,-0.0,0,3,2.09,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00736,PR023,Dallas,A,2BR,1091.0,5.2,2025-07-27,2286.0,2342.0,2.45,2,0,1.93,Cleanliness,negative,Common areas are not kept clean.,1
+L00737,PR023,Dallas,A,2BR,1109.0,5.4,2025-07-21,2439.0,2560.0,4.96,0,3,1.57,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00738,PR023,Dallas,A,Studio,517.0,5.8,2025-07-09,1014.0,1068.0,5.39,2,3,1.76,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00739,PR023,Dallas,A,Studio,519.0,16.0,2024-09-03,1092.0,1153.0,5.6,1,1,2.88,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00740,PR024,Nashville,C,3BR,1451.0,3.5,2025-09-18,1693.0,1822.0,7.62,0,0,0.74,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00741,PR024,Nashville,C,1BR,732.0,12.1,2024-12-31,970.0,1031.0,6.27,0,1,2.44,Lighting,negative,Common area lighting could be improved.,0
+L00742,PR024,Nashville,C,1BR,794.0,1.0,2025-12-02,990.0,953.0,-3.74,1,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00743,PR024,Nashville,C,1BR,736.0,8.0,2025-05-04,893.0,933.0,4.4,0,2,0.2,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00744,PR024,Nashville,C,1BR,716.0,2.0,2025-11-01,938.0,983.0,4.79,1,0,1.44,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00745,PR024,Nashville,C,2BR,1028.0,4.5,2025-08-19,1273.0,1300.0,2.1,2,0,1.17,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00746,PR024,Nashville,C,2BR,937.0,3.0,2025-10-03,1180.0,1245.0,5.57,0,1,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00747,PR024,Nashville,C,3BR,1408.0,30.0,2023-07-03,1816.0,1913.0,5.39,2,1,0.2,Cleanliness,negative,Common areas are not kept clean.,1
+L00748,PR024,Nashville,C,2BR,1010.0,17.2,2024-07-27,1337.0,1384.0,3.55,0,1,2.36,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00749,PR024,Nashville,C,1BR,803.0,28.4,2023-08-22,1019.0,1009.0,-1.02,0,0,2.24,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00750,PR024,Nashville,C,2BR,1071.0,6.8,2025-06-10,1291.0,1341.0,3.87,1,1,0.2,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00751,PR024,Nashville,C,2BR,996.0,5.3,2025-07-25,1379.0,1563.0,13.33,1,3,0.37,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00752,PR024,Nashville,C,1BR,708.0,6.7,2025-06-12,966.0,986.0,2.04,0,0,2.49,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00753,PR024,Nashville,C,Studio,525.0,1.0,2025-12-02,616.0,673.0,9.24,1,0,0.35,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00754,PR024,Nashville,C,1BR,680.0,18.1,2024-07-02,803.0,837.0,4.19,0,3,0.33,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00755,PR024,Nashville,C,2BR,1112.0,6.0,2025-07-02,1324.0,1324.0,-0.0,0,1,0.54,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00756,PR024,Nashville,C,2BR,998.0,5.3,2025-07-26,1311.0,1344.0,2.52,1,2,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00757,PR024,Nashville,C,2BR,1040.0,12.8,2024-12-09,1443.0,1500.0,3.92,0,1,0.2,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00758,PR024,Nashville,C,1BR,757.0,8.0,2025-05-03,918.0,985.0,7.28,0,0,1.88,Lighting,negative,Common area lighting could be improved.,1
+L00759,PR024,Nashville,C,3BR,1382.0,55.4,2021-05-24,1744.0,2022.0,15.9,1,2,0.2,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00760,PR024,Nashville,C,1BR,780.0,6.2,2025-06-28,931.0,971.0,4.27,0,0,1.07,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00761,PR024,Nashville,C,2BR,1009.0,13.3,2024-11-22,1391.0,1361.0,-2.15,1,0,1.71,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00762,PR024,Nashville,C,Studio,512.0,5.2,2025-07-27,672.0,643.0,-4.27,0,1,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00763,PR024,Nashville,C,1BR,791.0,65.3,2020-07-25,940.0,958.0,1.89,0,3,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00764,PR024,Nashville,C,2BR,1063.0,8.2,2025-04-26,1162.0,1142.0,-1.64,2,1,2.04,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00765,PR024,Nashville,C,3BR,1370.0,14.1,2024-10-31,1819.0,1942.0,6.79,0,0,1.36,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00766,PR024,Nashville,C,1BR,756.0,1.9,2025-11-05,913.0,975.0,6.83,1,0,0.21,Amenities,negative,Gym equipment has been broken for months.,1
+L00767,PR024,Nashville,C,Studio,554.0,18.5,2024-06-18,727.0,751.0,3.27,0,1,2.03,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00768,PR024,Nashville,C,1BR,733.0,4.4,2025-08-21,932.0,1000.0,7.29,0,0,2.03,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00769,PR024,Nashville,C,Studio,484.0,8.3,2025-04-23,538.0,562.0,4.32,0,0,1.09,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00770,PR024,Nashville,C,1BR,714.0,30.1,2023-07-03,849.0,962.0,13.34,2,1,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00771,PR024,Nashville,C,2BR,1090.0,49.4,2021-11-23,1334.0,1429.0,7.13,1,1,0.41,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00772,PR024,Nashville,C,3BR,1244.0,7.7,2025-05-11,1492.0,1619.0,8.48,0,0,1.11,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00773,PR024,Nashville,C,Studio,506.0,25.2,2023-11-27,637.0,616.0,-3.24,2,1,0.64,Amenities,negative,Pool area feels outdated and underused.,1
+L00774,PR024,Nashville,C,2BR,1084.0,1.0,2025-12-02,1388.0,1362.0,-1.86,0,1,1.76,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00775,PR024,Nashville,C,1BR,721.0,26.3,2023-10-24,998.0,1062.0,6.39,2,0,0.2,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00776,PR024,Nashville,C,1BR,762.0,13.9,2024-11-05,980.0,943.0,-3.75,1,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00777,PR025,Charlotte,A,Studio,519.0,2.0,2025-11-03,1046.0,1132.0,8.21,0,2,2.34,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00778,PR025,Charlotte,A,2BR,1061.0,1.2,2025-11-26,1990.0,2001.0,0.54,2,4,2.9,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00779,PR025,Charlotte,A,2BR,1052.0,1.0,2025-12-02,1999.0,2035.0,1.82,2,2,3.65,Amenities,negative,Gym equipment has been broken for months.,0
+L00780,PR025,Charlotte,A,Studio,507.0,13.9,2024-11-06,991.0,1032.0,4.05,1,6,1.79,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00781,PR025,Charlotte,A,1BR,787.0,13.9,2024-11-05,1570.0,1621.0,3.27,0,3,1.25,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00782,PR025,Charlotte,A,Studio,530.0,60.7,2020-12-13,1120.0,1151.0,2.8,0,2,1.6,Lighting,negative,Common area lighting could be improved.,1
+L00783,PR025,Charlotte,A,2BR,988.0,7.1,2025-05-30,1818.0,1811.0,-0.36,1,3,0.92,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00784,PR025,Charlotte,A,2BR,1128.0,5.6,2025-07-14,2266.0,2177.0,-3.93,0,1,2.76,Cleanliness,negative,Common areas are not kept clean.,1
+L00785,PR025,Charlotte,A,2BR,1108.0,13.7,2024-11-11,2218.0,2376.0,7.16,0,3,4.11,Lighting,negative,Parking lot lighting is poor at night.,0
+L00786,PR025,Charlotte,A,3BR,1381.0,24.5,2023-12-20,2231.0,2378.0,6.6,0,1,1.28,Amenities,negative,Pool area feels outdated and underused.,1
+L00787,PR025,Charlotte,A,Studio,543.0,38.7,2022-10-14,991.0,1000.0,0.93,0,3,0.78,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00788,PR025,Charlotte,A,3BR,1351.0,22.8,2024-02-10,2394.0,2535.0,5.89,0,2,2.98,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00789,PR025,Charlotte,A,2BR,1113.0,7.8,2025-05-10,2195.0,2265.0,3.17,0,2,2.29,Amenities,negative,Pool area feels outdated and underused.,1
+L00790,PR025,Charlotte,A,1BR,733.0,14.1,2024-10-30,1435.0,1572.0,9.53,1,1,2.31,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00791,PR025,Charlotte,A,3BR,1407.0,27.2,2023-09-29,2760.0,2689.0,-2.56,2,4,3.56,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00792,PR025,Charlotte,A,1BR,758.0,9.4,2025-03-20,1429.0,1477.0,3.37,0,5,0.6,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00793,PR025,Charlotte,A,2BR,1006.0,3.4,2025-09-20,1907.0,1964.0,2.97,0,1,0.58,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00794,PR025,Charlotte,A,2BR,1136.0,2.6,2025-10-14,2177.0,2282.0,4.81,1,1,1.81,Lighting,negative,Common area lighting could be improved.,1
+L00795,PR025,Charlotte,A,2BR,1073.0,1.0,2025-12-02,2011.0,2246.0,11.69,1,3,2.03,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00796,PR025,Charlotte,A,2BR,1066.0,17.7,2024-07-11,2141.0,2214.0,3.38,0,4,1.62,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00797,PR025,Charlotte,A,1BR,733.0,1.6,2025-11-12,1318.0,1419.0,7.72,0,3,4.43,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00798,PR025,Charlotte,A,1BR,736.0,3.9,2025-09-05,1347.0,1391.0,3.26,0,4,1.66,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00799,PR025,Charlotte,A,1BR,759.0,5.0,2025-08-04,1467.0,1604.0,9.35,2,2,1.42,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00800,PR025,Charlotte,A,2BR,1027.0,11.5,2025-01-17,1928.0,2077.0,7.76,0,1,2.1,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00801,PR025,Charlotte,A,2BR,995.0,7.1,2025-05-31,1784.0,1825.0,2.33,0,3,2.94,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00802,PR025,Charlotte,A,3BR,1278.0,15.7,2024-09-11,2532.0,2582.0,1.97,0,4,1.25,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00803,PR025,Charlotte,A,Studio,530.0,1.0,2025-12-02,983.0,1046.0,6.43,0,2,1.82,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00804,PR025,Charlotte,A,2BR,1071.0,1.9,2025-11-06,1953.0,1967.0,0.72,1,0,2.97,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L00805,PR025,Charlotte,A,3BR,1425.0,9.7,2025-03-13,2708.0,2842.0,4.95,0,1,3.03,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00806,PR025,Charlotte,A,2BR,1076.0,5.8,2025-07-11,1956.0,2000.0,2.22,0,2,2.19,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00807,PR026,Austin,B,1BR,708.0,15.1,2024-09-30,963.0,994.0,3.22,0,1,0.48,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00808,PR026,Austin,B,Studio,524.0,5.5,2025-07-19,685.0,756.0,10.29,0,2,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00809,PR026,Austin,B,3BR,1381.0,5.8,2025-07-08,1897.0,1826.0,-3.71,2,1,2.37,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00810,PR026,Austin,B,1BR,755.0,15.2,2024-09-27,1001.0,1072.0,7.1,0,1,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00811,PR026,Austin,B,3BR,1360.0,8.8,2025-04-09,1688.0,1622.0,-3.94,2,1,0.59,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00812,PR026,Austin,B,1BR,795.0,23.4,2024-01-21,1016.0,1077.0,6.0,0,2,2.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00813,PR026,Austin,B,2BR,989.0,2.4,2025-10-21,1204.0,1251.0,3.89,0,2,1.14,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00814,PR026,Austin,B,1BR,755.0,21.8,2024-03-08,939.0,1005.0,7.06,0,2,2.11,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00815,PR026,Austin,B,2BR,1015.0,1.0,2025-12-02,1409.0,1394.0,-1.06,0,2,2.57,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00816,PR026,Austin,B,2BR,1121.0,3.0,2025-10-02,1490.0,1510.0,1.32,0,1,0.2,Amenities,negative,Pool area feels outdated and underused.,0
+L00817,PR026,Austin,B,Studio,498.0,14.9,2024-10-04,682.0,732.0,7.32,1,1,1.92,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00818,PR026,Austin,B,3BR,1183.0,27.0,2023-10-03,1771.0,1797.0,1.45,1,2,2.34,Lighting,negative,Parking lot lighting is poor at night.,1
+L00819,PR026,Austin,B,1BR,779.0,4.1,2025-08-31,1033.0,1114.0,7.78,1,1,0.64,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L00820,PR026,Austin,B,2BR,1066.0,5.5,2025-07-17,1493.0,1569.0,5.05,0,0,0.72,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00821,PR026,Austin,B,3BR,1374.0,10.8,2025-02-08,1858.0,1891.0,1.77,0,1,0.2,Amenities,negative,Gym equipment has been broken for months.,1
+L00822,PR026,Austin,B,2BR,1157.0,3.3,2025-09-22,1821.0,1865.0,2.42,2,0,1.8,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00823,PR026,Austin,B,3BR,1375.0,23.3,2024-01-23,1520.0,1581.0,4.02,2,1,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00824,PR026,Austin,B,1BR,756.0,20.8,2024-04-09,977.0,1005.0,2.9,0,2,1.99,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00825,PR026,Austin,B,Studio,519.0,2.2,2025-10-27,728.0,784.0,7.65,0,3,0.2,Amenities,negative,Pool area feels outdated and underused.,1
+L00826,PR026,Austin,B,1BR,707.0,8.7,2025-04-11,911.0,931.0,2.14,0,2,2.41,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00827,PR026,Austin,B,1BR,742.0,20.9,2024-04-07,1036.0,1047.0,1.13,1,3,1.41,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00828,PR026,Austin,B,2BR,1187.0,5.8,2025-07-10,1596.0,1733.0,8.55,0,0,2.03,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00829,PR026,Austin,B,1BR,736.0,14.0,2024-11-01,1045.0,1065.0,1.89,0,2,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00830,PR027,Austin,B,Studio,514.0,19.7,2024-05-14,783.0,754.0,-3.71,1,1,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00831,PR027,Austin,B,1BR,816.0,17.9,2024-07-06,1340.0,1400.0,4.47,0,2,0.2,Lighting,negative,Common area lighting could be improved.,1
+L00832,PR027,Austin,B,2BR,974.0,2.1,2025-10-29,1522.0,1658.0,8.92,1,2,1.68,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00833,PR027,Austin,B,1BR,756.0,29.3,2023-07-25,1196.0,1230.0,2.84,0,0,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00834,PR027,Austin,B,2BR,1062.0,2.8,2025-10-09,1668.0,1563.0,-5.0,2,2,0.59,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00835,PR027,Austin,B,2BR,1051.0,22.3,2024-02-22,1649.0,1743.0,5.71,2,0,0.2,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00836,PR027,Austin,B,2BR,1116.0,8.5,2025-04-17,1791.0,1916.0,7.01,0,1,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00837,PR027,Austin,B,1BR,742.0,5.6,2025-07-16,1148.0,1160.0,1.07,0,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00838,PR027,Austin,B,1BR,674.0,2.4,2025-10-20,1046.0,1057.0,1.1,1,0,2.14,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00839,PR027,Austin,B,2BR,994.0,2.6,2025-10-15,1683.0,1940.0,15.29,2,1,0.48,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00840,PR027,Austin,B,2BR,1119.0,15.2,2024-09-27,1748.0,1760.0,0.71,0,0,2.54,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00841,PR027,Austin,B,1BR,689.0,11.2,2025-01-26,1120.0,1102.0,-1.61,0,2,2.75,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00842,PR027,Austin,B,Studio,539.0,1.8,2025-11-07,812.0,845.0,4.13,0,2,2.93,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00843,PR027,Austin,B,Studio,523.0,1.7,2025-11-12,810.0,865.0,6.87,0,0,0.76,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00844,PR027,Austin,B,Studio,516.0,1.1,2025-12-01,759.0,810.0,6.66,1,1,1.03,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00845,PR027,Austin,B,2BR,1076.0,19.1,2024-06-01,1900.0,1742.0,-5.0,0,1,1.19,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00846,PR027,Austin,B,Studio,533.0,17.4,2024-07-21,918.0,924.0,0.7,1,3,0.45,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00847,PR027,Austin,B,1BR,706.0,1.0,2025-12-02,1162.0,1276.0,9.76,0,1,1.24,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00848,PR027,Austin,B,2BR,1082.0,11.5,2025-01-17,1943.0,2052.0,5.63,0,2,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00849,PR027,Austin,B,1BR,707.0,1.2,2025-11-25,1177.0,1151.0,-2.18,0,1,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00850,PR027,Austin,B,2BR,1089.0,32.8,2023-04-11,1713.0,1888.0,10.21,0,0,1.53,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L00851,PR027,Austin,B,2BR,1115.0,33.3,2023-03-27,1812.0,1972.0,8.82,0,1,0.47,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00852,PR027,Austin,B,1BR,756.0,16.8,2024-08-10,1301.0,1333.0,2.52,0,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00853,PR027,Austin,B,2BR,1113.0,36.5,2022-12-19,1676.0,1817.0,8.4,0,2,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00854,PR027,Austin,B,2BR,1042.0,23.4,2024-01-22,1540.0,1756.0,14.0,1,0,2.33,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00855,PR027,Austin,B,1BR,748.0,24.7,2023-12-13,1218.0,1202.0,-1.27,0,1,1.28,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00856,PR027,Austin,B,1BR,741.0,11.8,2025-01-08,1137.0,1214.0,6.78,0,0,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00857,PR027,Austin,B,1BR,739.0,5.1,2025-07-30,1015.0,1157.0,13.93,2,2,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L00858,PR027,Austin,B,3BR,1296.0,3.4,2025-09-19,1907.0,2045.0,7.27,2,0,0.52,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00859,PR027,Austin,B,2BR,1057.0,5.5,2025-07-17,1649.0,1652.0,0.23,2,2,1.29,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00860,PR027,Austin,B,1BR,708.0,13.9,2024-11-06,1129.0,1188.0,5.19,2,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00861,PR027,Austin,B,2BR,989.0,2.7,2025-10-13,1579.0,1750.0,10.85,0,2,0.64,Lighting,negative,Parking lot lighting is poor at night.,1
+L00862,PR027,Austin,B,1BR,724.0,4.2,2025-08-27,1289.0,1275.0,-1.08,1,3,0.93,Cleanliness,negative,Common areas are not kept clean.,1
+L00863,PR027,Austin,B,2BR,1114.0,8.8,2025-04-08,1749.0,1816.0,3.85,1,0,0.95,Amenities,negative,Pool area feels outdated and underused.,1
+L00864,PR027,Austin,B,2BR,1093.0,3.7,2025-09-11,1766.0,1815.0,2.78,0,4,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00865,PR027,Austin,B,1BR,703.0,12.4,2024-12-19,1009.0,1017.0,0.84,1,0,1.04,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00866,PR027,Austin,B,2BR,1058.0,35.9,2023-01-05,1679.0,1767.0,5.21,0,1,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00867,PR027,Austin,B,2BR,1117.0,19.3,2024-05-25,1812.0,1876.0,3.5,1,0,0.53,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00868,PR027,Austin,B,2BR,1056.0,15.4,2024-09-21,1540.0,1651.0,7.22,0,0,0.32,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L00869,PR027,Austin,B,1BR,697.0,12.2,2024-12-26,1046.0,1147.0,9.7,0,2,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00870,PR027,Austin,B,2BR,1202.0,9.4,2025-03-23,1967.0,1921.0,-2.36,1,0,1.66,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00871,PR027,Austin,B,3BR,1339.0,2.9,2025-10-06,2059.0,2148.0,4.34,0,2,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00872,PR027,Austin,B,1BR,706.0,31.5,2023-05-19,1116.0,1158.0,3.73,0,1,0.29,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00873,PR027,Austin,B,1BR,756.0,4.0,2025-09-02,1242.0,1304.0,5.02,1,0,1.7,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L00874,PR027,Austin,B,1BR,747.0,1.3,2025-11-22,1333.0,1385.0,3.92,0,1,0.27,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00875,PR028,Dallas,B,1BR,724.0,6.0,2025-07-02,956.0,1013.0,5.94,0,0,0.94,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00876,PR028,Dallas,B,1BR,697.0,1.4,2025-11-21,1035.0,1062.0,2.66,2,2,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00877,PR028,Dallas,B,1BR,701.0,10.2,2025-02-26,1059.0,1044.0,-1.44,0,3,0.63,Amenities,negative,Pool area feels outdated and underused.,0
+L00878,PR028,Dallas,B,2BR,1001.0,3.4,2025-09-21,1484.0,1751.0,18.01,0,1,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L00879,PR028,Dallas,B,2BR,1135.0,10.8,2025-02-08,1633.0,1659.0,1.56,0,1,1.8,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00880,PR028,Dallas,B,1BR,693.0,25.3,2023-11-26,974.0,905.0,-5.0,2,1,1.75,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00881,PR028,Dallas,B,1BR,760.0,13.4,2024-11-20,1210.0,1207.0,-0.21,0,0,1.02,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00882,PR028,Dallas,B,2BR,1066.0,14.1,2024-10-31,1591.0,1554.0,-2.34,0,0,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00883,PR028,Dallas,B,1BR,746.0,10.9,2025-02-04,1215.0,1313.0,8.13,0,3,1.08,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00884,PR028,Dallas,B,2BR,1154.0,36.7,2022-12-13,1665.0,1758.0,5.61,2,0,1.65,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00885,PR028,Dallas,B,2BR,1056.0,37.6,2022-11-15,1533.0,1625.0,5.99,0,1,2.13,Lighting,negative,Common area lighting could be improved.,0
+L00886,PR028,Dallas,B,Studio,536.0,10.1,2025-03-02,838.0,856.0,2.15,0,4,3.07,Amenities,negative,Pool area feels outdated and underused.,1
+L00887,PR028,Dallas,B,2BR,1082.0,5.1,2025-07-30,1455.0,1493.0,2.6,2,2,2.44,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00888,PR028,Dallas,B,1BR,744.0,8.6,2025-04-15,1028.0,1050.0,2.15,0,1,1.48,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00889,PR028,Dallas,B,2BR,1204.0,2.9,2025-10-06,1912.0,1981.0,3.59,0,3,1.03,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00890,PR028,Dallas,B,3BR,1253.0,14.2,2024-10-28,1735.0,1877.0,8.18,0,2,0.57,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00891,PR028,Dallas,B,2BR,1150.0,9.7,2025-03-12,1526.0,1613.0,5.68,2,1,2.67,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L00892,PR028,Dallas,B,1BR,775.0,1.5,2025-11-16,1284.0,1367.0,6.5,1,0,1.48,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00893,PR028,Dallas,B,1BR,732.0,3.1,2025-09-30,999.0,1064.0,6.5,1,0,1.95,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00894,PR028,Dallas,B,1BR,811.0,9.1,2025-03-29,1222.0,1325.0,8.42,1,3,0.73,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00895,PR028,Dallas,B,1BR,681.0,30.6,2023-06-16,1018.0,1074.0,5.44,0,4,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00896,PR028,Dallas,B,Studio,506.0,11.7,2025-01-11,627.0,664.0,5.79,2,0,0.92,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00897,PR028,Dallas,B,2BR,1015.0,16.0,2024-09-02,1488.0,1636.0,9.94,0,3,1.01,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00898,PR028,Dallas,B,Studio,531.0,5.8,2025-07-09,812.0,818.0,0.67,0,1,1.51,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00899,PR028,Dallas,B,1BR,708.0,11.9,2025-01-06,1078.0,1075.0,-0.28,1,1,0.58,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00900,PR028,Dallas,B,1BR,766.0,8.3,2025-04-24,1204.0,1180.0,-1.93,0,4,1.34,Lighting,negative,Parking lot lighting is poor at night.,1
+L00901,PR028,Dallas,B,3BR,1337.0,15.1,2024-09-30,1946.0,2042.0,4.91,0,1,2.49,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00902,PR028,Dallas,B,2BR,1054.0,1.0,2025-12-02,1638.0,1551.0,-5.0,0,2,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00903,PR029,Nashville,B,2BR,1091.0,2.9,2025-10-04,1458.0,1458.0,0.01,2,1,1.63,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00904,PR029,Nashville,B,2BR,1061.0,3.3,2025-09-22,1533.0,1624.0,5.98,0,2,0.72,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00905,PR029,Nashville,B,1BR,710.0,11.4,2025-01-20,1010.0,1056.0,4.53,0,2,0.96,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00906,PR029,Nashville,B,2BR,1125.0,21.7,2024-03-14,1433.0,1480.0,3.3,2,1,0.33,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00907,PR029,Nashville,B,1BR,777.0,5.3,2025-07-25,996.0,1098.0,10.32,2,2,1.24,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00908,PR029,Nashville,B,2BR,1007.0,1.2,2025-11-25,1303.0,1316.0,1.02,1,0,2.54,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00909,PR029,Nashville,B,3BR,1382.0,8.7,2025-04-11,1800.0,1906.0,5.9,0,4,1.46,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00910,PR029,Nashville,B,1BR,763.0,19.3,2024-05-25,917.0,871.0,-5.0,0,3,2.32,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00911,PR029,Nashville,B,2BR,1125.0,3.5,2025-09-17,1591.0,1663.0,4.49,0,0,2.92,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00912,PR029,Nashville,B,1BR,756.0,3.5,2025-09-18,993.0,1020.0,2.71,0,1,0.87,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L00913,PR029,Nashville,B,Studio,557.0,41.2,2022-07-29,773.0,758.0,-1.91,0,1,1.28,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00914,PR029,Nashville,B,2BR,1073.0,43.2,2022-05-31,1421.0,1506.0,5.99,1,0,3.63,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00915,PR029,Nashville,B,1BR,740.0,65.1,2020-07-31,997.0,1000.0,0.31,0,0,2.91,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00916,PR029,Nashville,B,2BR,1027.0,23.1,2024-01-31,1330.0,1498.0,12.66,1,3,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00917,PR029,Nashville,B,Studio,496.0,2.9,2025-10-05,668.0,614.0,-5.0,1,0,1.85,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00918,PR029,Nashville,B,3BR,1281.0,3.3,2025-09-22,1639.0,1725.0,5.24,2,2,1.46,Noise,negative,Noise from neighboring units is a constant issue.,0
+L00919,PR029,Nashville,B,1BR,758.0,5.8,2025-07-09,1022.0,1065.0,4.21,0,4,2.29,Maintenance,negative,Maintenance request took 2 days to get resolved.,0
+L00920,PR029,Nashville,B,1BR,740.0,5.4,2025-07-23,1086.0,1114.0,2.6,1,1,0.72,Cleanliness,negative,Common areas are not kept clean.,1
+L00921,PR029,Nashville,B,1BR,762.0,43.9,2022-05-08,1061.0,1076.0,1.35,0,1,0.62,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00922,PR029,Nashville,B,3BR,1268.0,21.8,2024-03-10,1742.0,1818.0,4.34,0,1,0.79,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00923,PR029,Nashville,B,2BR,1034.0,18.0,2024-07-03,1285.0,1405.0,9.31,0,4,0.89,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00924,PR029,Nashville,B,2BR,1033.0,2.9,2025-10-06,1442.0,1379.0,-4.36,1,4,2.28,Lighting,negative,Parking lot lighting is poor at night.,0
+L00925,PR029,Nashville,B,1BR,831.0,33.6,2023-03-16,1167.0,1167.0,-0.03,0,2,0.28,Lighting,negative,Common area lighting could be improved.,1
+L00926,PR029,Nashville,B,1BR,744.0,24.6,2023-12-15,1020.0,1008.0,-1.25,2,1,0.84,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00927,PR029,Nashville,B,Studio,518.0,2.5,2025-10-17,709.0,698.0,-1.49,0,1,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00928,PR029,Nashville,B,2BR,1076.0,28.7,2023-08-13,1440.0,1522.0,5.71,0,6,2.47,Amenities,negative,Pool area feels outdated and underused.,0
+L00929,PR029,Nashville,B,1BR,808.0,4.4,2025-08-19,1134.0,1212.0,6.95,0,4,2.73,Lighting,negative,Common area lighting could be improved.,0
+L00930,PR029,Nashville,B,3BR,1241.0,1.2,2025-11-27,1816.0,1985.0,9.33,1,2,1.14,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00931,PR029,Nashville,B,2BR,1077.0,15.0,2024-10-03,1482.0,1587.0,7.03,0,1,1.16,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00932,PR029,Nashville,B,1BR,689.0,14.9,2024-10-07,876.0,941.0,7.43,0,2,1.92,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00933,PR029,Nashville,B,1BR,661.0,1.4,2025-11-20,844.0,818.0,-3.06,0,2,2.94,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00934,PR029,Nashville,B,2BR,1040.0,5.4,2025-07-22,1466.0,1633.0,11.42,0,1,1.87,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00935,PR029,Nashville,B,1BR,765.0,69.1,2020-04-02,974.0,1002.0,2.95,0,0,0.76,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00936,PR030,Charlotte,A,1BR,712.0,53.1,2021-08-01,1281.0,1331.0,3.91,0,2,2.05,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00937,PR030,Charlotte,A,2BR,1045.0,3.8,2025-09-08,1805.0,1954.0,8.27,2,1,2.77,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00938,PR030,Charlotte,A,Studio,543.0,6.1,2025-06-29,1069.0,1140.0,6.62,0,8,1.92,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00939,PR030,Charlotte,A,3BR,1469.0,4.2,2025-08-28,3005.0,2953.0,-1.74,0,10,1.71,Cleanliness,negative,Common areas are not kept clean.,1
+L00940,PR030,Charlotte,A,2BR,1098.0,4.3,2025-08-23,2201.0,2239.0,1.72,0,3,3.23,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00941,PR030,Charlotte,A,3BR,1310.0,7.2,2025-05-26,2254.0,2557.0,13.47,2,3,1.16,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L00942,PR030,Charlotte,A,1BR,732.0,16.9,2024-08-04,1239.0,1308.0,5.63,1,5,1.36,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00943,PR030,Charlotte,A,1BR,734.0,1.0,2025-12-02,1387.0,1373.0,-1.03,0,0,2.62,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00944,PR030,Charlotte,A,2BR,1136.0,44.1,2022-05-02,2276.0,2345.0,3.04,0,2,3.29,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00945,PR030,Charlotte,A,2BR,1055.0,1.0,2025-12-02,1968.0,1871.0,-4.91,0,3,2.75,Lighting,negative,Parking lot lighting is poor at night.,1
+L00946,PR030,Charlotte,A,1BR,748.0,29.8,2023-07-10,1358.0,1286.0,-5.0,0,1,2.22,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L00947,PR030,Charlotte,A,3BR,1441.0,31.5,2023-05-21,2637.0,2872.0,8.91,1,0,2.14,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00948,PR030,Charlotte,A,2BR,1049.0,10.4,2025-02-19,2049.0,2131.0,3.98,0,1,3.46,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00949,PR030,Charlotte,A,Studio,534.0,2.1,2025-10-31,964.0,1028.0,6.59,1,2,3.3,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00950,PR030,Charlotte,A,1BR,784.0,11.7,2025-01-12,1484.0,1629.0,9.79,0,0,2.5,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00951,PR030,Charlotte,A,1BR,752.0,13.9,2024-11-06,1374.0,1452.0,5.7,0,6,2.17,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00952,PR030,Charlotte,A,1BR,823.0,27.3,2023-09-24,1434.0,1544.0,7.67,0,5,2.48,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00953,PR030,Charlotte,A,2BR,1170.0,11.2,2025-01-26,2028.0,2135.0,5.29,1,3,1.72,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L00954,PR030,Charlotte,A,Studio,527.0,7.4,2025-05-21,1000.0,1104.0,10.43,0,3,2.3,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00955,PR030,Charlotte,A,2BR,1037.0,25.5,2023-11-18,1598.0,1803.0,12.87,1,1,1.96,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00956,PR030,Charlotte,A,2BR,1039.0,55.5,2021-05-22,1967.0,2065.0,5.0,0,2,2.34,Safety,negative,"Front gate has been broken, security is a concern.",1
+L00957,PR030,Charlotte,A,1BR,758.0,14.5,2024-10-18,1380.0,1446.0,4.79,0,6,1.99,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00958,PR030,Charlotte,A,2BR,1021.0,29.0,2023-08-03,1986.0,2097.0,5.6,1,2,2.97,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00959,PR030,Charlotte,A,1BR,760.0,12.8,2024-12-09,1449.0,1499.0,3.47,2,4,3.26,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00960,PR030,Charlotte,A,1BR,813.0,16.4,2024-08-21,1500.0,1530.0,2.0,1,4,2.07,Noise,negative,Thin walls make it hard to get any quiet.,1
+L00961,PR030,Charlotte,A,2BR,1083.0,16.3,2024-08-24,1866.0,2038.0,9.24,0,3,1.63,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00962,PR031,Denver,C,Studio,511.0,8.2,2025-04-27,673.0,731.0,8.71,0,2,1.43,Lighting,negative,Common area lighting could be improved.,1
+L00963,PR031,Denver,C,1BR,737.0,5.5,2025-07-18,913.0,900.0,-1.36,0,3,0.98,Safety,negative,Parking area doesn't feel very secure at night.,1
+L00964,PR031,Denver,C,1BR,709.0,1.0,2025-12-02,894.0,1038.0,16.07,0,1,0.67,Lighting,negative,Common area lighting could be improved.,0
+L00965,PR031,Denver,C,Studio,530.0,25.1,2023-12-01,650.0,726.0,11.59,1,2,0.59,Cleanliness,positive,Property is always clean and well-maintained.,0
+L00966,PR031,Denver,C,1BR,766.0,1.0,2025-12-02,802.0,788.0,-1.69,2,1,2.57,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L00967,PR031,Denver,C,2BR,1004.0,14.8,2024-10-08,1206.0,1268.0,5.19,0,2,0.2,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00968,PR031,Denver,C,Studio,540.0,5.3,2025-07-25,677.0,738.0,8.97,0,2,1.63,Amenities,negative,Pool area feels outdated and underused.,0
+L00969,PR031,Denver,C,1BR,725.0,3.0,2025-10-03,817.0,824.0,0.88,2,3,1.97,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L00970,PR031,Denver,C,1BR,736.0,15.4,2024-09-20,862.0,837.0,-2.83,2,0,0.97,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L00971,PR031,Denver,C,1BR,820.0,12.0,2025-01-03,1012.0,1057.0,4.51,0,1,1.22,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L00972,PR031,Denver,C,1BR,810.0,5.3,2025-07-24,1000.0,1032.0,3.2,1,2,1.41,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00973,PR031,Denver,C,3BR,1252.0,10.1,2025-03-01,1615.0,1606.0,-0.57,2,0,2.08,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L00974,PR031,Denver,C,2BR,1011.0,4.0,2025-09-03,1253.0,1380.0,10.18,0,0,2.98,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L00975,PR031,Denver,C,1BR,711.0,27.9,2023-09-06,915.0,892.0,-2.44,0,3,0.2,Amenities,negative,Gym equipment has been broken for months.,0
+L00976,PR031,Denver,C,Studio,561.0,5.3,2025-07-25,677.0,701.0,3.46,1,1,0.53,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L00977,PR031,Denver,C,1BR,727.0,3.9,2025-09-04,928.0,973.0,4.91,0,5,0.58,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00978,PR031,Denver,C,2BR,1000.0,19.5,2024-05-18,1372.0,1448.0,5.54,0,3,1.44,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00979,PR031,Denver,C,1BR,796.0,1.0,2025-12-02,1021.0,1119.0,9.65,1,3,1.05,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L00980,PR031,Denver,C,1BR,772.0,4.4,2025-08-22,959.0,986.0,2.8,0,2,2.12,Lighting,negative,Parking lot lighting is poor at night.,0
+L00981,PR031,Denver,C,Studio,579.0,6.6,2025-06-15,688.0,626.0,-5.0,0,5,0.79,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00982,PR031,Denver,C,3BR,1390.0,29.9,2023-07-06,1760.0,1797.0,2.07,0,1,0.56,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L00983,PR031,Denver,C,Studio,519.0,42.1,2022-07-03,646.0,695.0,7.63,1,3,0.69,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L00984,PR031,Denver,C,2BR,1094.0,17.6,2024-07-14,1424.0,1471.0,3.28,1,1,1.57,Cleanliness,positive,Property is always clean and well-maintained.,1
+L00985,PR031,Denver,C,1BR,733.0,9.5,2025-03-19,823.0,850.0,3.32,2,3,2.41,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L00986,PR031,Denver,C,2BR,1150.0,14.3,2024-10-23,1433.0,1528.0,6.63,0,2,1.41,Safety,negative,Parking area doesn't feel very secure at night.,0
+L00987,PR031,Denver,C,2BR,1153.0,7.5,2025-05-19,1490.0,1598.0,7.29,0,2,0.89,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L00988,PR031,Denver,C,1BR,691.0,5.0,2025-08-03,877.0,834.0,-4.93,0,1,0.42,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L00989,PR032,Atlanta,C,2BR,1017.0,41.3,2022-07-27,1253.0,1304.0,4.08,2,0,1.89,Maintenance,negative,Maintenance team is slow to respond to requests.,1
+L00990,PR032,Atlanta,C,1BR,725.0,1.0,2025-12-02,951.0,963.0,1.29,2,2,0.85,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L00991,PR032,Atlanta,C,1BR,725.0,35.2,2023-01-29,865.0,846.0,-2.13,0,2,2.18,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00992,PR032,Atlanta,C,Studio,575.0,13.1,2024-11-28,769.0,816.0,6.17,2,1,0.73,Lighting,negative,Common area lighting could be improved.,0
+L00993,PR032,Atlanta,C,1BR,808.0,23.1,2024-02-01,1015.0,1098.0,8.17,0,1,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L00994,PR032,Atlanta,C,3BR,1237.0,6.8,2025-06-09,1580.0,1537.0,-2.74,0,1,1.45,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00995,PR032,Atlanta,C,1BR,678.0,8.9,2025-04-05,849.0,931.0,9.72,2,1,2.07,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00996,PR032,Atlanta,C,2BR,1075.0,28.4,2023-08-21,1357.0,1404.0,3.49,0,2,2.65,Noise,negative,Noise from neighboring units is a constant issue.,1
+L00997,PR032,Atlanta,C,2BR,1183.0,7.5,2025-05-18,1423.0,1391.0,-2.28,2,2,1.87,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L00998,PR032,Atlanta,C,1BR,775.0,10.7,2025-02-10,1012.0,1009.0,-0.24,0,1,0.84,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L00999,PR032,Atlanta,C,2BR,1078.0,1.0,2025-12-02,1426.0,1416.0,-0.72,1,2,2.76,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01000,PR032,Atlanta,C,1BR,733.0,2.4,2025-10-20,863.0,858.0,-0.63,0,1,2.53,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L01001,PR032,Atlanta,C,2BR,1138.0,14.4,2024-10-22,1405.0,1501.0,6.85,0,0,1.64,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L01002,PR032,Atlanta,C,1BR,757.0,17.7,2024-07-13,970.0,1051.0,8.32,0,3,2.58,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01003,PR032,Atlanta,C,2BR,1174.0,12.2,2024-12-26,1448.0,1629.0,12.5,0,3,3.56,Amenities,negative,Gym equipment has been broken for months.,0
+L01004,PR032,Atlanta,C,Studio,476.0,2.2,2025-10-28,601.0,604.0,0.51,0,1,0.83,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01005,PR032,Atlanta,C,2BR,1103.0,8.3,2025-04-26,1549.0,1637.0,5.71,1,4,0.47,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01006,PR032,Atlanta,C,Studio,505.0,6.1,2025-06-29,607.0,612.0,0.76,1,0,0.8,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L01007,PR032,Atlanta,C,2BR,1102.0,9.6,2025-03-16,1215.0,1265.0,4.1,0,0,0.2,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01008,PR032,Atlanta,C,1BR,759.0,28.6,2023-08-16,937.0,905.0,-3.4,0,3,1.96,Lighting,negative,Parking lot lighting is poor at night.,1
+L01009,PR032,Atlanta,C,2BR,1108.0,20.9,2024-04-05,1390.0,1367.0,-1.62,0,3,0.2,Amenities,negative,Pool area feels outdated and underused.,1
+L01010,PR032,Atlanta,C,1BR,787.0,1.2,2025-11-25,977.0,1056.0,8.02,2,1,2.64,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01011,PR032,Atlanta,C,1BR,802.0,30.9,2023-06-06,1043.0,1008.0,-3.42,1,2,0.7,Noise,negative,Noise from neighboring units is a constant issue.,1
+L01012,PR032,Atlanta,C,2BR,1185.0,8.9,2025-04-05,1424.0,1524.0,7.07,0,4,2.73,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L01013,PR033,Charlotte,C,3BR,1205.0,3.7,2025-09-11,1145.0,1236.0,7.91,0,8,2.02,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01014,PR033,Charlotte,C,1BR,821.0,7.1,2025-05-30,859.0,890.0,3.6,0,2,2.08,Noise,negative,Noise from neighboring units is a constant issue.,1
+L01015,PR033,Charlotte,C,2BR,1064.0,21.6,2024-03-17,1130.0,1191.0,5.4,0,4,1.06,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01016,PR033,Charlotte,C,2BR,1173.0,9.4,2025-03-23,1180.0,1273.0,7.9,1,0,2.44,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01017,PR033,Charlotte,C,3BR,1398.0,3.4,2025-09-20,1472.0,1547.0,5.06,0,3,3.27,Amenities,negative,Pool area feels outdated and underused.,1
+L01018,PR033,Charlotte,C,2BR,1093.0,1.7,2025-11-10,1251.0,1320.0,5.53,0,4,2.03,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01019,PR033,Charlotte,C,2BR,1075.0,9.7,2025-03-13,1109.0,1231.0,11.04,0,4,2.51,Safety,negative,Parking area doesn't feel very secure at night.,0
+L01020,PR033,Charlotte,C,3BR,1536.0,22.1,2024-02-28,1555.0,1634.0,5.1,0,2,2.52,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01021,PR033,Charlotte,C,2BR,1065.0,14.8,2024-10-08,1283.0,1295.0,0.96,2,3,1.04,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01022,PR033,Charlotte,C,2BR,1044.0,3.7,2025-09-11,1132.0,1101.0,-2.73,0,3,4.3,Maintenance,negative,Maintenance request took 4 days to get resolved.,0
+L01023,PR033,Charlotte,C,Studio,505.0,8.0,2025-05-02,515.0,539.0,4.57,0,0,1.77,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L01024,PR033,Charlotte,C,1BR,750.0,27.1,2023-10-02,834.0,853.0,2.34,1,4,2.9,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01025,PR033,Charlotte,C,2BR,1080.0,2.7,2025-10-10,1173.0,1268.0,8.04,1,0,3.02,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01026,PR033,Charlotte,C,1BR,788.0,10.6,2025-02-12,814.0,911.0,11.89,2,3,2.11,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L01027,PR033,Charlotte,C,1BR,778.0,6.2,2025-06-28,830.0,821.0,-1.15,2,0,2.85,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01028,PR033,Charlotte,C,1BR,778.0,1.9,2025-11-06,818.0,815.0,-0.43,2,7,2.49,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L01029,PR033,Charlotte,C,2BR,1068.0,1.0,2025-12-02,1210.0,1257.0,3.88,2,2,0.83,Lighting,negative,Parking lot lighting is poor at night.,1
+L01030,PR033,Charlotte,C,1BR,775.0,11.4,2025-01-21,864.0,864.0,0.0,2,2,1.91,Amenities,negative,Gym equipment has been broken for months.,1
+L01031,PR034,Dallas,C,1BR,811.0,17.2,2024-07-27,820.0,864.0,5.28,0,2,1.86,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01032,PR034,Dallas,C,1BR,705.0,13.6,2024-11-14,741.0,759.0,2.42,1,0,3.38,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01033,PR034,Dallas,C,Studio,479.0,9.6,2025-03-16,502.0,545.0,8.48,0,2,1.01,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01034,PR034,Dallas,C,1BR,735.0,5.0,2025-08-03,867.0,908.0,4.73,0,2,1.05,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01035,PR034,Dallas,C,1BR,704.0,1.8,2025-11-08,686.0,737.0,7.53,2,2,2.48,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01036,PR034,Dallas,C,2BR,1011.0,7.4,2025-05-23,1017.0,1057.0,3.96,2,0,1.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01037,PR034,Dallas,C,2BR,1004.0,1.0,2025-12-02,1135.0,1190.0,4.91,1,1,3.23,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L01038,PR034,Dallas,C,2BR,1070.0,3.3,2025-09-23,1193.0,1296.0,8.66,0,2,2.63,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01039,PR034,Dallas,C,Studio,509.0,7.9,2025-05-05,548.0,565.0,3.04,0,1,1.25,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L01040,PR034,Dallas,C,2BR,1100.0,7.6,2025-05-16,1359.0,1446.0,6.36,0,2,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L01041,PR034,Dallas,C,Studio,505.0,1.0,2025-12-02,576.0,587.0,1.78,1,1,0.2,Maintenance,negative,Maintenance team is slow to respond to requests.,0
+L01042,PR034,Dallas,C,2BR,1014.0,12.5,2024-12-19,1198.0,1238.0,3.34,0,1,1.14,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01043,PR034,Dallas,C,2BR,1079.0,11.2,2025-01-27,1183.0,1325.0,11.97,0,2,2.03,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01044,PR034,Dallas,C,1BR,710.0,1.1,2025-11-28,756.0,810.0,7.2,1,0,2.73,Noise,negative,Thin walls make it hard to get any quiet.,1
+L01045,PR034,Dallas,C,2BR,1108.0,40.1,2022-08-30,1180.0,1195.0,1.29,2,2,1.41,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L01046,PR034,Dallas,C,3BR,1238.0,1.5,2025-11-18,1437.0,1525.0,6.11,0,4,0.74,Noise,negative,Thin walls make it hard to get any quiet.,0
+L01047,PR034,Dallas,C,2BR,963.0,27.0,2023-10-03,1109.0,1082.0,-2.4,2,0,1.48,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01048,PR034,Dallas,C,1BR,690.0,1.0,2025-12-02,749.0,770.0,2.89,2,1,1.65,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L01049,PR034,Dallas,C,2BR,1057.0,30.0,2023-07-06,1196.0,1187.0,-0.77,0,0,2.93,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01050,PR034,Dallas,C,3BR,1331.0,1.0,2025-12-02,1548.0,1645.0,6.26,0,0,2.87,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01051,PR034,Dallas,C,1BR,755.0,19.9,2024-05-08,803.0,827.0,3.06,0,2,0.62,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01052,PR034,Dallas,C,2BR,1050.0,6.3,2025-06-24,1131.0,1192.0,5.42,2,1,2.08,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01053,PR034,Dallas,C,Studio,498.0,18.8,2024-06-10,562.0,607.0,7.87,2,1,0.77,Amenities,negative,Pool area feels outdated and underused.,1
+L01054,PR034,Dallas,C,Studio,557.0,7.2,2025-05-28,547.0,557.0,1.7,0,1,0.8,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01055,PR034,Dallas,C,2BR,1143.0,1.0,2025-12-01,1293.0,1317.0,1.88,2,1,2.66,Cleanliness,negative,Common areas are not kept clean.,1
+L01056,PR034,Dallas,C,2BR,1133.0,20.4,2024-04-21,1162.0,1207.0,3.81,2,4,1.43,Cleanliness,negative,Common areas are not kept clean.,1
+L01057,PR034,Dallas,C,2BR,1097.0,1.0,2025-12-01,1275.0,1271.0,-0.3,2,1,2.26,Cleanliness,negative,Common areas are not kept clean.,1
+L01058,PR034,Dallas,C,3BR,1376.0,35.7,2023-01-11,1709.0,1776.0,3.94,2,2,2.16,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01059,PR034,Dallas,C,Studio,499.0,1.0,2025-12-02,526.0,548.0,4.21,0,2,1.55,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01060,PR034,Dallas,C,1BR,755.0,9.1,2025-03-30,764.0,803.0,5.14,0,1,1.96,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01061,PR034,Dallas,C,3BR,1287.0,18.0,2024-07-04,1400.0,1485.0,6.1,1,2,1.83,Lighting,negative,Parking lot lighting is poor at night.,0
+L01062,PR034,Dallas,C,1BR,711.0,7.0,2025-06-03,769.0,738.0,-4.02,0,1,0.47,Noise,negative,Thin walls make it hard to get any quiet.,1
+L01063,PR034,Dallas,C,2BR,993.0,3.4,2025-09-19,1135.0,1108.0,-2.43,0,3,2.11,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L01064,PR034,Dallas,C,1BR,765.0,19.9,2024-05-06,854.0,838.0,-1.84,1,3,0.92,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L01065,PR034,Dallas,C,Studio,524.0,21.5,2024-03-20,566.0,592.0,4.46,0,2,0.56,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01066,PR034,Dallas,C,1BR,739.0,35.8,2023-01-08,817.0,838.0,2.58,0,1,2.48,Amenities,negative,Pool area feels outdated and underused.,1
+L01067,PR034,Dallas,C,1BR,734.0,6.6,2025-06-15,753.0,698.0,-5.0,0,3,1.03,Lighting,negative,Common area lighting could be improved.,1
+L01068,PR034,Dallas,C,2BR,981.0,9.9,2025-03-07,1133.0,1289.0,13.74,1,6,2.74,Amenities,negative,Pool area feels outdated and underused.,1
+L01069,PR035,Austin,B,2BR,1086.0,18.6,2024-06-16,1630.0,1645.0,0.96,0,0,2.09,Cleanliness,positive,Property is always clean and well-maintained.,0
+L01070,PR035,Austin,B,3BR,1386.0,9.7,2025-03-12,1886.0,1697.0,-5.0,0,2,1.59,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01071,PR035,Austin,B,2BR,1052.0,13.0,2024-12-03,1583.0,1654.0,4.46,2,1,0.44,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01072,PR035,Austin,B,2BR,1054.0,5.0,2025-08-01,1713.0,1704.0,-0.56,1,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01073,PR035,Austin,B,1BR,775.0,3.1,2025-09-28,1193.0,1289.0,8.05,1,0,1.32,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01074,PR035,Austin,B,1BR,708.0,10.9,2025-02-03,970.0,1055.0,8.71,2,0,1.45,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01075,PR035,Austin,B,1BR,722.0,8.1,2025-04-30,963.0,1013.0,5.16,0,1,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01076,PR035,Austin,B,Studio,520.0,6.9,2025-06-05,777.0,818.0,5.22,0,0,0.39,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01077,PR035,Austin,B,3BR,1411.0,15.6,2024-09-13,2093.0,2193.0,4.82,0,1,0.22,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01078,PR035,Austin,B,1BR,714.0,16.4,2024-08-20,1127.0,1132.0,0.5,0,2,1.66,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01079,PR035,Austin,B,3BR,1471.0,1.0,2025-12-02,2233.0,2254.0,0.93,2,1,0.2,Amenities,negative,Pool area feels outdated and underused.,0
+L01080,PR035,Austin,B,Studio,485.0,5.8,2025-07-09,692.0,766.0,10.62,0,1,0.95,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L01081,PR035,Austin,B,2BR,1164.0,7.4,2025-05-21,1654.0,1781.0,7.68,0,2,0.2,Amenities,negative,Pool area feels outdated and underused.,1
+L01082,PR035,Austin,B,1BR,795.0,1.4,2025-11-19,1077.0,1131.0,5.03,1,0,1.23,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01083,PR035,Austin,B,Studio,483.0,3.8,2025-09-09,715.0,765.0,7.0,1,0,0.97,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01084,PR035,Austin,B,2BR,992.0,1.0,2025-12-02,1335.0,1385.0,3.69,1,2,0.33,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01085,PR035,Austin,B,1BR,777.0,78.2,2019-07-01,1205.0,1264.0,4.92,0,2,2.27,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01086,PR035,Austin,B,2BR,1060.0,18.7,2024-06-13,1613.0,1725.0,6.97,0,0,0.2,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L01087,PR035,Austin,B,2BR,1026.0,1.3,2025-11-24,1558.0,1459.0,-5.0,0,1,0.83,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01088,PR035,Austin,B,Studio,567.0,1.0,2025-12-02,768.0,833.0,8.53,1,2,2.04,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01089,PR035,Austin,B,3BR,1269.0,17.8,2024-07-10,1849.0,2000.0,8.17,0,1,0.97,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01090,PR035,Austin,B,1BR,723.0,8.1,2025-04-30,1038.0,1039.0,0.1,1,0,2.21,Amenities,negative,Gym equipment has been broken for months.,1
+L01091,PR036,Denver,C,2BR,1149.0,9.5,2025-03-20,1622.0,1710.0,5.44,2,5,2.43,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01092,PR036,Denver,C,1BR,749.0,1.3,2025-11-22,972.0,1037.0,6.65,0,4,3.24,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01093,PR036,Denver,C,3BR,1412.0,2.4,2025-10-19,1731.0,1889.0,9.12,1,2,2.58,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01094,PR036,Denver,C,2BR,1064.0,6.8,2025-06-10,1432.0,1362.0,-4.88,0,3,1.12,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L01095,PR036,Denver,C,Studio,591.0,2.4,2025-10-22,734.0,787.0,7.24,1,4,1.41,Cleanliness,negative,Common areas are not kept clean.,0
+L01096,PR036,Denver,C,1BR,768.0,46.4,2022-02-20,982.0,1090.0,11.05,0,2,3.33,Cleanliness,positive,Property is always clean and well-maintained.,0
+L01097,PR036,Denver,C,2BR,1168.0,41.1,2022-08-02,1354.0,1536.0,13.44,0,3,3.3,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L01098,PR036,Denver,C,2BR,1043.0,5.7,2025-07-11,1195.0,1169.0,-2.13,0,2,2.17,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01099,PR036,Denver,C,2BR,1056.0,14.3,2024-10-24,1375.0,1420.0,3.27,0,7,3.27,Amenities,negative,Pool area feels outdated and underused.,1
+L01100,PR036,Denver,C,2BR,1066.0,10.7,2025-02-11,1433.0,1486.0,3.75,1,3,1.33,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01101,PR036,Denver,C,2BR,1214.0,23.7,2024-01-13,1708.0,1834.0,7.38,0,2,2.32,Noise,negative,Thin walls make it hard to get any quiet.,1
+L01102,PR036,Denver,C,1BR,742.0,13.8,2024-11-07,890.0,918.0,3.18,0,3,0.62,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01103,PR036,Denver,C,2BR,1036.0,1.0,2025-12-02,1419.0,1425.0,0.42,0,4,1.73,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L01104,PR036,Denver,C,Studio,554.0,20.2,2024-04-28,753.0,791.0,5.09,1,3,2.12,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01105,PR036,Denver,C,3BR,1354.0,19.2,2024-05-27,1656.0,1694.0,2.31,0,1,0.41,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01106,PR036,Denver,C,2BR,1068.0,10.0,2025-03-04,1458.0,1557.0,6.81,0,0,2.69,Amenities,negative,Gym equipment has been broken for months.,0
+L01107,PR036,Denver,C,2BR,1047.0,32.7,2023-04-15,1394.0,1393.0,-0.05,2,8,2.86,Noise,negative,Thin walls make it hard to get any quiet.,0
+L01108,PR036,Denver,C,1BR,768.0,33.5,2023-03-21,1034.0,1023.0,-1.11,1,1,3.11,Noise,negative,Noise from neighboring units is a constant issue.,1
+L01109,PR036,Denver,C,1BR,790.0,10.4,2025-02-20,1125.0,1244.0,10.58,2,5,4.43,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L01110,PR036,Denver,C,1BR,780.0,13.1,2024-11-29,1047.0,1208.0,15.36,2,1,2.51,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L01111,PR036,Denver,C,2BR,1054.0,79.3,2019-05-29,1158.0,1310.0,13.11,0,3,2.03,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L01112,PR036,Denver,C,2BR,1027.0,5.0,2025-08-03,1319.0,1367.0,3.64,1,1,0.49,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01113,PR036,Denver,C,1BR,599.0,5.5,2025-07-18,684.0,748.0,9.28,0,1,2.49,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L01114,PR036,Denver,C,2BR,1029.0,2.8,2025-10-08,1308.0,1316.0,0.57,1,1,2.66,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01115,PR036,Denver,C,2BR,1060.0,31.7,2023-05-15,1343.0,1431.0,6.54,0,1,0.74,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01116,PR036,Denver,C,Studio,518.0,19.1,2024-05-31,630.0,637.0,1.08,1,1,1.86,Lighting,negative,Common area lighting could be improved.,1
+L01117,PR036,Denver,C,1BR,740.0,1.6,2025-11-15,875.0,965.0,10.28,1,3,2.11,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L01118,PR036,Denver,C,2BR,1231.0,56.1,2021-05-03,1502.0,1646.0,9.62,2,2,2.63,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01119,PR036,Denver,C,2BR,1107.0,18.4,2024-06-22,1366.0,1562.0,14.38,1,9,2.95,Amenities,negative,Gym equipment has been broken for months.,0
+L01120,PR036,Denver,C,2BR,1013.0,26.6,2023-10-16,1267.0,1303.0,2.85,2,2,1.56,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01121,PR036,Denver,C,1BR,775.0,1.0,2025-12-02,982.0,1099.0,11.9,2,5,2.3,Lighting,negative,Common area lighting could be improved.,0
+L01122,PR036,Denver,C,3BR,1376.0,9.8,2025-03-08,1795.0,1912.0,6.53,0,3,2.67,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01123,PR036,Denver,C,Studio,493.0,16.8,2024-08-09,609.0,636.0,4.38,0,2,1.91,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L01124,PR037,Charlotte,A,3BR,1316.0,11.6,2025-01-15,2565.0,2717.0,5.95,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01125,PR037,Charlotte,A,2BR,1225.0,11.1,2025-01-30,2626.0,2879.0,9.62,1,2,0.25,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01126,PR037,Charlotte,A,1BR,729.0,44.3,2022-04-25,1474.0,1453.0,-1.42,0,0,0.2,Noise,negative,Noise from neighboring units is a constant issue.,1
+L01127,PR037,Charlotte,A,1BR,734.0,19.3,2024-05-25,1497.0,1634.0,9.19,0,2,2.47,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L01128,PR037,Charlotte,A,1BR,717.0,26.6,2023-10-17,1495.0,1712.0,14.53,0,1,0.89,Lighting,negative,Common area lighting could be improved.,1
+L01129,PR037,Charlotte,A,2BR,1149.0,6.1,2025-06-30,2393.0,2580.0,7.82,0,2,0.49,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L01130,PR037,Charlotte,A,Studio,510.0,11.3,2025-01-23,956.0,1032.0,7.95,2,0,0.39,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L01131,PR037,Charlotte,A,2BR,1041.0,13.4,2024-11-21,2298.0,2410.0,4.85,1,1,0.2,Noise,negative,Thin walls make it hard to get any quiet.,1
+L01132,PR037,Charlotte,A,2BR,1118.0,5.4,2025-07-20,2309.0,2341.0,1.38,0,3,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01133,PR037,Charlotte,A,3BR,1257.0,11.8,2025-01-07,2545.0,2744.0,7.81,0,0,2.07,Maintenance,negative,Maintenance request took 2 days to get resolved.,1
+L01134,PR037,Charlotte,A,1BR,773.0,3.8,2025-09-09,1627.0,1569.0,-3.53,2,1,0.31,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01135,PR037,Charlotte,A,1BR,817.0,2.2,2025-10-28,1698.0,1731.0,1.91,1,1,0.81,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L01136,PR037,Charlotte,A,2BR,1111.0,6.6,2025-06-16,2382.0,2266.0,-4.86,1,1,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01137,PR037,Charlotte,A,Studio,537.0,18.8,2024-06-08,1136.0,1141.0,0.48,0,0,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L01138,PR037,Charlotte,A,1BR,783.0,34.7,2023-02-11,1673.0,1794.0,7.21,0,1,1.4,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01139,PR037,Charlotte,A,Studio,564.0,8.6,2025-04-16,1251.0,1333.0,6.53,2,0,1.17,Amenities,negative,Pool area feels outdated and underused.,1
+L01140,PR037,Charlotte,A,1BR,795.0,14.4,2024-10-20,1717.0,1790.0,4.25,2,3,2.54,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01141,PR037,Charlotte,A,Studio,531.0,1.5,2025-11-16,1079.0,1131.0,4.85,0,1,2.13,Lighting,negative,Common area lighting could be improved.,1
+L01142,PR037,Charlotte,A,1BR,784.0,32.9,2023-04-08,1499.0,1417.0,-5.0,1,0,0.56,Management Responsiveness,negative,Management is difficult to reach when issues come up.,0
+L01143,PR037,Charlotte,A,3BR,1290.0,11.8,2025-01-09,2910.0,2972.0,2.14,0,2,1.26,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L01144,PR037,Charlotte,A,2BR,1122.0,21.2,2024-03-27,2267.0,2281.0,0.59,0,4,0.47,Maintenance,positive,Quick turnaround on my maintenance request.,0
+L01145,PR037,Charlotte,A,Studio,494.0,22.1,2024-02-28,984.0,991.0,0.7,2,1,2.84,Noise,negative,Thin walls make it hard to get any quiet.,0
+L01146,PR037,Charlotte,A,1BR,736.0,4.1,2025-08-28,1352.0,1447.0,7.0,0,1,1.94,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01147,PR037,Charlotte,A,2BR,914.0,10.5,2025-02-15,1911.0,1905.0,-0.3,1,0,0.96,Lighting,negative,Common area lighting could be improved.,0
+L01148,PR037,Charlotte,A,2BR,1102.0,45.2,2022-03-28,2279.0,2301.0,0.98,0,1,0.99,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01149,PR037,Charlotte,A,Studio,503.0,1.3,2025-11-23,938.0,878.0,-5.0,0,1,2.23,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L01150,PR037,Charlotte,A,2BR,1140.0,16.1,2024-08-30,2401.0,2461.0,2.53,0,2,1.37,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01151,PR038,Atlanta,A,3BR,1412.0,6.9,2025-06-06,2236.0,2100.0,-5.0,1,1,0.55,Safety,negative,"Front gate has been broken, security is a concern.",1
+L01152,PR038,Atlanta,A,1BR,775.0,2.2,2025-10-26,1656.0,1794.0,8.33,0,1,0.2,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01153,PR038,Atlanta,A,Studio,550.0,3.7,2025-09-12,1015.0,988.0,-2.7,2,0,0.94,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01154,PR038,Atlanta,A,1BR,749.0,13.5,2024-11-18,1632.0,1765.0,8.14,2,1,0.69,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01155,PR038,Atlanta,A,Studio,461.0,1.0,2025-12-02,897.0,904.0,0.81,2,1,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L01156,PR038,Atlanta,A,3BR,1429.0,8.7,2025-04-11,2683.0,2883.0,7.47,0,3,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01157,PR038,Atlanta,A,1BR,741.0,13.2,2024-11-27,1423.0,1512.0,6.22,2,2,2.71,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01158,PR038,Atlanta,A,3BR,1291.0,7.7,2025-05-13,2348.0,2379.0,1.32,2,3,0.93,Management Responsiveness,negative,Hard to get a response from the leasing office.,1
+L01159,PR038,Atlanta,A,3BR,1373.0,1.0,2025-12-02,2618.0,2607.0,-0.39,0,2,2.19,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01160,PR038,Atlanta,A,2BR,1090.0,59.3,2021-01-25,2321.0,2481.0,6.88,0,2,1.15,Noise,negative,Thin walls make it hard to get any quiet.,0
+L01161,PR038,Atlanta,A,Studio,501.0,6.4,2025-06-21,900.0,905.0,0.54,1,0,2.08,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L01162,PR038,Atlanta,A,Studio,487.0,21.1,2024-03-31,954.0,1045.0,9.54,0,0,1.4,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01163,PR038,Atlanta,A,1BR,768.0,5.5,2025-07-18,1395.0,1393.0,-0.16,0,4,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01164,PR038,Atlanta,A,1BR,718.0,9.0,2025-04-02,1351.0,1428.0,5.75,0,0,1.45,Cleanliness,negative,Common areas are not kept clean.,0
+L01165,PR038,Atlanta,A,2BR,1086.0,6.9,2025-06-06,2308.0,2356.0,2.05,1,0,0.2,Cleanliness,negative,Common areas are not kept clean.,1
+L01166,PR038,Atlanta,A,1BR,764.0,5.9,2025-07-07,1497.0,1558.0,4.03,0,0,1.78,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01167,PR038,Atlanta,A,3BR,1415.0,1.0,2025-12-02,2809.0,2823.0,0.5,0,0,1.06,Amenities,positive,Amenity spaces are a great value for the rent.,0
+L01168,PR038,Atlanta,A,1BR,829.0,6.2,2025-06-26,1583.0,1632.0,3.11,2,5,0.86,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01169,PR038,Atlanta,A,2BR,1093.0,30.8,2023-06-09,2412.0,2200.0,-5.0,0,1,0.41,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01170,PR038,Atlanta,A,2BR,1057.0,16.4,2024-08-21,1894.0,1893.0,-0.06,2,1,1.64,Amenities,negative,Gym equipment has been broken for months.,1
+L01171,PR038,Atlanta,A,1BR,812.0,2.2,2025-10-27,1397.0,1412.0,1.06,2,2,0.69,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01172,PR038,Atlanta,A,1BR,789.0,12.5,2024-12-17,1651.0,1712.0,3.64,0,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01173,PR038,Atlanta,A,Studio,524.0,31.2,2023-05-29,974.0,1075.0,10.47,0,1,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01174,PR038,Atlanta,A,1BR,759.0,16.9,2024-08-07,1477.0,1485.0,0.51,1,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01175,PR038,Atlanta,A,1BR,751.0,2.3,2025-10-25,1574.0,1748.0,11.07,0,0,1.63,Cleanliness,negative,Common areas are not kept clean.,0
+L01176,PR038,Atlanta,A,1BR,756.0,28.3,2023-08-24,1473.0,1469.0,-0.31,0,1,1.71,Noise,positive,"Building is quiet, never had a noise complaint.",0
+L01177,PR038,Atlanta,A,1BR,746.0,5.0,2025-08-02,1608.0,1583.0,-1.54,1,2,1.17,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01178,PR038,Atlanta,A,3BR,1284.0,8.5,2025-04-19,2460.0,2327.0,-5.0,1,0,1.16,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01179,PR038,Atlanta,A,1BR,750.0,10.5,2025-02-18,1365.0,1461.0,7.03,0,2,2.29,Safety,negative,Parking area doesn't feel very secure at night.,0
+L01180,PR038,Atlanta,A,2BR,1175.0,26.6,2023-10-16,1917.0,2002.0,4.43,0,0,1.19,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01181,PR038,Atlanta,A,Studio,499.0,37.6,2022-11-17,965.0,1030.0,6.74,2,0,1.48,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01182,PR038,Atlanta,A,1BR,740.0,37.2,2022-11-29,1217.0,1274.0,4.66,0,1,0.84,Noise,negative,Thin walls make it hard to get any quiet.,0
+L01183,PR038,Atlanta,A,1BR,717.0,1.0,2025-12-02,1388.0,1443.0,3.95,0,0,0.38,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L01184,PR038,Atlanta,A,3BR,1428.0,35.7,2023-01-12,2951.0,3111.0,5.42,0,0,0.57,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01185,PR038,Atlanta,A,1BR,781.0,1.0,2025-12-02,1483.0,1701.0,14.76,0,2,2.9,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L01186,PR038,Atlanta,A,Studio,487.0,4.3,2025-08-23,935.0,951.0,1.63,0,0,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L01187,PR039,Atlanta,A,1BR,727.0,36.1,2022-12-30,1471.0,1484.0,0.85,0,1,2.49,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01188,PR039,Atlanta,A,1BR,692.0,1.7,2025-11-10,1480.0,1565.0,5.74,0,2,1.41,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01189,PR039,Atlanta,A,1BR,733.0,5.4,2025-07-23,1295.0,1334.0,3.03,2,0,1.75,Noise,negative,Noise from neighboring units is a constant issue.,0
+L01190,PR039,Atlanta,A,2BR,1085.0,1.0,2025-12-02,2308.0,2398.0,3.88,0,0,0.2,Safety,negative,Parking area doesn't feel very secure at night.,0
+L01191,PR039,Atlanta,A,Studio,550.0,4.4,2025-08-20,1018.0,1093.0,7.36,1,1,0.2,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01192,PR039,Atlanta,A,1BR,748.0,3.4,2025-09-19,1542.0,1493.0,-3.19,0,0,2.15,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L01193,PR039,Atlanta,A,1BR,861.0,1.0,2025-12-02,1796.0,1793.0,-0.15,1,0,1.68,Safety,negative,Parking area doesn't feel very secure at night.,1
+L01194,PR039,Atlanta,A,2BR,1057.0,9.5,2025-03-19,2124.0,2289.0,7.75,1,2,1.22,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01195,PR039,Atlanta,A,1BR,772.0,8.9,2025-04-07,1403.0,1459.0,3.99,0,3,0.46,Amenities,negative,Gym equipment has been broken for months.,1
+L01196,PR039,Atlanta,A,1BR,728.0,1.1,2025-11-28,1449.0,1489.0,2.72,0,2,1.01,Safety,negative,Parking area doesn't feel very secure at night.,0
+L01197,PR039,Atlanta,A,Studio,531.0,4.3,2025-08-25,1200.0,1180.0,-1.6,2,0,2.46,Safety,negative,Parking area doesn't feel very secure at night.,0
+L01198,PR039,Atlanta,A,Studio,517.0,42.9,2022-06-07,1013.0,1041.0,2.75,1,2,0.62,Safety,negative,"Front gate has been broken, security is a concern.",1
+L01199,PR039,Atlanta,A,2BR,1067.0,1.6,2025-11-13,2078.0,2232.0,7.4,2,0,1.42,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",0
+L01200,PR039,Atlanta,A,2BR,1047.0,5.1,2025-07-31,2027.0,2051.0,1.18,0,2,1.39,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01201,PR039,Atlanta,A,2BR,1088.0,1.0,2025-12-02,2198.0,2436.0,10.82,0,0,0.2,Lighting,negative,Parking lot lighting is poor at night.,0
+L01202,PR039,Atlanta,A,2BR,1125.0,2.3,2025-10-25,2194.0,2400.0,9.38,0,1,0.2,Management Responsiveness,negative,Management is difficult to reach when issues come up.,1
+L01203,PR039,Atlanta,A,Studio,495.0,16.8,2024-08-08,986.0,1008.0,2.25,0,1,2.25,Amenities,negative,Pool area feels outdated and underused.,1
+L01204,PR039,Atlanta,A,2BR,1077.0,6.4,2025-06-21,2075.0,2096.0,1.03,0,0,1.29,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01205,PR039,Atlanta,A,1BR,768.0,8.4,2025-04-20,1413.0,1274.0,-5.0,2,0,0.2,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01206,PR039,Atlanta,A,Studio,538.0,2.4,2025-10-21,1201.0,1184.0,-1.38,0,0,0.41,Amenities,positive,Amenity spaces are a great value for the rent.,1
+L01207,PR039,Atlanta,A,2BR,1181.0,16.0,2024-09-01,2301.0,2262.0,-1.69,0,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01208,PR039,Atlanta,A,2BR,1111.0,19.5,2024-05-19,2596.0,2514.0,-3.15,1,0,1.79,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01209,PR039,Atlanta,A,2BR,1058.0,2.8,2025-10-08,2127.0,2209.0,3.82,0,1,0.47,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L01210,PR039,Atlanta,A,2BR,1049.0,1.0,2025-12-02,2131.0,2249.0,5.56,0,1,0.48,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01211,PR039,Atlanta,A,3BR,1311.0,1.2,2025-11-27,2522.0,2851.0,13.07,1,1,1.56,Cleanliness,negative,Common areas are not kept clean.,1
+L01212,PR039,Atlanta,A,1BR,726.0,15.0,2024-10-03,1373.0,1432.0,4.33,2,0,0.2,Maintenance,positive,"Maintenance fixed my issue the same day, very responsive.",1
+L01213,PR039,Atlanta,A,3BR,1365.0,2.0,2025-11-01,2629.0,2466.0,-5.0,2,1,0.68,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01214,PR039,Atlanta,A,2BR,1103.0,9.5,2025-03-18,2053.0,2059.0,0.26,2,2,0.71,Maintenance,positive,Quick turnaround on my maintenance request.,1
+L01215,PR039,Atlanta,A,2BR,1125.0,2.3,2025-10-23,2082.0,2229.0,7.05,0,1,0.44,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01216,PR039,Atlanta,A,2BR,1116.0,2.6,2025-10-14,2421.0,2508.0,3.59,2,3,0.2,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L01217,PR039,Atlanta,A,2BR,1147.0,1.0,2025-12-02,2357.0,2552.0,8.28,2,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",0
+L01218,PR039,Atlanta,A,2BR,1044.0,5.4,2025-07-21,2230.0,2262.0,1.43,0,1,1.0,Cleanliness,positive,Property is always clean and well-maintained.,1
+L01219,PR039,Atlanta,A,1BR,811.0,1.3,2025-11-22,1698.0,1863.0,9.76,1,2,0.2,Lighting,negative,Common area lighting could be improved.,0
+L01220,PR040,Phoenix,B,1BR,683.0,28.2,2023-08-29,1157.0,1333.0,15.22,0,1,2.78,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01221,PR040,Phoenix,B,2BR,1089.0,33.6,2023-03-16,1708.0,1739.0,1.8,0,0,1.96,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01222,PR040,Phoenix,B,1BR,782.0,3.4,2025-09-19,1317.0,1444.0,9.68,0,0,0.59,Cleanliness,positive,Property is always clean and well-maintained.,0
+L01223,PR040,Phoenix,B,Studio,478.0,24.9,2023-12-07,753.0,756.0,0.29,0,1,0.93,Management Responsiveness,negative,Hard to get a response from the leasing office.,0
+L01224,PR040,Phoenix,B,2BR,1104.0,17.3,2024-07-25,1603.0,1791.0,11.69,1,2,0.92,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01225,PR040,Phoenix,B,2BR,1152.0,46.1,2022-03-03,1864.0,1873.0,0.5,0,2,0.61,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01226,PR040,Phoenix,B,1BR,821.0,11.9,2025-01-06,1237.0,1212.0,-1.96,0,0,2.08,Safety,positive,"Always feel safe on the property, good lighting and gated access.",1
+L01227,PR040,Phoenix,B,3BR,1372.0,1.2,2025-11-25,2278.0,2346.0,2.96,0,0,1.78,Maintenance,negative,Maintenance request took 1 days to get resolved.,0
+L01228,PR040,Phoenix,B,1BR,769.0,12.7,2024-12-10,1171.0,1187.0,1.34,1,0,0.27,Noise,negative,Noise from neighboring units is a constant issue.,1
+L01229,PR040,Phoenix,B,1BR,670.0,16.2,2024-08-26,1067.0,1141.0,6.98,2,0,0.2,Noise,positive,"Building is quiet, never had a noise complaint.",1
+L01230,PR040,Phoenix,B,Studio,575.0,3.5,2025-09-18,953.0,988.0,3.74,0,3,0.6,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01231,PR040,Phoenix,B,2BR,1049.0,7.0,2025-06-02,1698.0,1820.0,7.14,1,0,0.2,Lighting,positive,"Well-lit throughout, common areas and parking included.",1
+L01232,PR040,Phoenix,B,1BR,715.0,12.8,2024-12-09,1190.0,1221.0,2.54,2,1,0.69,Amenities,positive,"Love the amenities, especially the fitness center.",1
+L01233,PR040,Phoenix,B,1BR,740.0,6.6,2025-06-16,1264.0,1272.0,0.67,1,0,0.2,Amenities,negative,Pool area feels outdated and underused.,1
+L01234,PR040,Phoenix,B,2BR,1162.0,6.6,2025-06-16,1773.0,1792.0,1.08,0,1,1.92,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,0
+L01235,PR040,Phoenix,B,Studio,577.0,2.0,2025-11-02,943.0,1077.0,14.22,0,1,1.35,Amenities,negative,Pool area feels outdated and underused.,0
+L01236,PR040,Phoenix,B,2BR,1087.0,39.6,2022-09-17,1426.0,1499.0,5.13,2,2,1.33,Amenities,positive,"Love the amenities, especially the fitness center.",0
+L01237,PR040,Phoenix,B,2BR,1134.0,19.4,2024-05-21,1887.0,1775.0,-5.0,1,3,1.74,Safety,negative,Parking area doesn't feel very secure at night.,0
+L01238,PR040,Phoenix,B,3BR,1353.0,1.0,2025-12-02,2179.0,2209.0,1.4,2,1,1.06,Maintenance,negative,Maintenance request took 1 days to get resolved.,1
+L01239,PR040,Phoenix,B,2BR,1024.0,20.3,2024-04-24,1580.0,1651.0,4.48,0,2,1.21,Cleanliness,negative,Hallways and trash areas need more attention.,0
+L01240,PR040,Phoenix,B,Studio,558.0,18.8,2024-06-08,933.0,1057.0,13.23,0,1,2.1,Lighting,negative,Parking lot lighting is poor at night.,1
+L01241,PR040,Phoenix,B,Studio,504.0,1.0,2025-12-02,884.0,965.0,9.14,0,0,0.53,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01242,PR040,Phoenix,B,2BR,1163.0,6.5,2025-06-19,1853.0,1841.0,-0.61,2,1,1.27,Management Responsiveness,positive,Management team is responsive and easy to work with.,1
+L01243,PR040,Phoenix,B,2BR,1150.0,13.1,2024-11-30,1779.0,2066.0,16.09,1,0,0.2,Safety,positive,"Always feel safe on the property, good lighting and gated access.",0
+L01244,PR040,Phoenix,B,1BR,773.0,8.4,2025-04-20,1280.0,1330.0,3.84,2,2,0.75,Noise,negative,Thin walls make it hard to get any quiet.,1
+L01245,PR040,Phoenix,B,2BR,1179.0,21.1,2024-04-01,1778.0,1960.0,10.23,1,0,2.93,Management Responsiveness,positive,Management team is responsive and easy to work with.,0
+L01246,PR040,Phoenix,B,1BR,834.0,7.8,2025-05-11,1313.0,1290.0,-1.78,2,0,1.48,Cleanliness,negative,Hallways and trash areas need more attention.,1
+L01247,PR040,Phoenix,B,3BR,1338.0,2.3,2025-10-22,2356.0,2167.0,-5.0,0,3,0.58,Maintenance,negative,Still waiting on a repair I submitted weeks ago.,1
+L01248,PR040,Phoenix,B,3BR,1295.0,52.5,2021-08-21,2132.0,2068.0,-3.04,0,2,0.93,Noise,negative,Thin walls make it hard to get any quiet.,1
+L01249,PR040,Phoenix,B,3BR,1224.0,3.9,2025-09-06,1781.0,1563.0,-5.0,0,1,0.65,Amenities,positive,"Love the amenities, especially the fitness center.",1
